@@ -1,11 +1,12 @@
 ---
 layout: default
+title: {{ page.title }}
 ---
 
 <h1>#{{ page.number }} {{ page.title }}</h1>
 <p>{{page.date | date_to_string }} - {{ page.authors | ',' }}</p>
 <p>Keywords: {{ page.tags | join: ', ' }}</p>
 
-***
+<hr>
 
 {{ content }}
