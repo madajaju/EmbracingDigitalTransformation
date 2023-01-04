@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: #117 2022 In Review
 permalink: EDT117
 has_children: false
