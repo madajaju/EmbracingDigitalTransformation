@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: #117 2022 In Review
+title: 2022 In Review
+number: 117
 permalink: EDT117
 has_children: false
 nav_order: 117
