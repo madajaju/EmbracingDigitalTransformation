@@ -4,8 +4,17 @@ title: #117 2022 In Review
 permalink: EDT117
 has_children: false
 nav_order: 117
+tags:
+    - Multi-Cloud
+    - Cybersecurity
+    - Edge Computing
+    - Data Management
+    - Artificial Intelligence
+date: 2023-01-05
+authors:
+    - Darren W Pulsipher
 ---
-# Summary
+# #117 2022 In Review
 
 In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces.
 
