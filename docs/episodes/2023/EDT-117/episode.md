@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: #117 2022 In Review
 permalink: EDT117
 has_children: false
@@ -19,7 +19,7 @@ authors:
 In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces.
 
 {% include youtube.html id="lxRMINWH48g" %}
-{% include soundcloud.html id="edt117" %}
+{% include soundcloud.html id="edt116" %}
 
 ---
 2022 was a banner year for embracing digital transformation, with an uptick in listeners and several external guests interviewed this year. Eight guests were executives or former executives of government agencies and private sector organizations, including finance, manufacturing, and healthcare. In over 60 episodes, six topics emerged as necessary to our listeners and in the industry as a whole, namely: Hybrid workspaces, cybersecurity, multi-hybrid cloud, edge computing, data management, and artificial intelligence.
