@@ -28,7 +28,9 @@ tags:
 {% endfor %}
 
 {% for tag in sortedTags %}
-<a href="/tags/{{ tag }}">#{{ tag }}</a>
+{% if tag != "" %}
+<a href="/EmbracingDigitalTransformation/tags/{{ tag }}">#{{ tag }}</a>
+{% endif %}
 {% endfor %}
 
 <h2>Episodes</h2>
