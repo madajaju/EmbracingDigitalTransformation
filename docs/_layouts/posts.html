@@ -8,14 +8,20 @@ authors:
     - {{ page.authors | join: ',\n\t-' }}
 ---
 
+<style>
+.thumbnail {
+    float: right;
+    margin: 0 15px 0 0;
+}
+</style>
+
 <h1>#{{ page.number }} {{ page.title }}</h1>
 <div>
-<img src="{{ page.path | remove: page.name }}/{{ page.img }}" style="float:right" width="128" height="128">
-
-<div style="clear:both">
-    <p><i>{{page.date | date_to_string }} - by {{ page.authors | join: ', ' }}</i><br>
-        <i><b>Keywords:</b> {{ page.tags | join: ', ' }}</i></p>
-</div>
+    <img src="{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128" class="thumbnail">
+    <p>
+        <i>{{page.date | date_to_string }} - by {{ page.authors | join: ', ' }}</i><br>
+        <i><b>Keywords:</b> {{ page.tags | join: ', ' }}</i>
+    </p>
 </div>
 <hr>
 
