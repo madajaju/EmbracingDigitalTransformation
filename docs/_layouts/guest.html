@@ -1,7 +1,6 @@
 ---
 layout: default
-title: {{ page.guest }}
-guest: {{ page.guest }}
+title: {{ page.title }}
 parent: Guests
 tags:
     - {{ page.tags | join: ',\n\t-' }}
@@ -26,7 +25,7 @@ tags:
 
 <h2>Episodes</h2>
 {% for spage in site.pages %}
-{% if spage.guests contains page.guest %}
+{% if spage.guests contains page.title %}
 <li>
     <img class="thumbnail" src="../{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
     <a href="/EmbracingDigitalTransformation/{{ spage.url }}">{{ spage.number}} - {{ spage.title }}</a><br>

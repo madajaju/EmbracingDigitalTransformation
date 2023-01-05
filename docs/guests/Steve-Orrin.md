@@ -1,6 +1,6 @@
 ---
 layout: guest
-guest: Steve Orrin
+title: Steve Orrin
 parent: Guests
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: guest
-guest: Dr. Anna Scott
+title: Dr. Anna Scott
 parent: Guests
 ---
 

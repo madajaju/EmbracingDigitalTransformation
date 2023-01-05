@@ -1,6 +1,6 @@
 ---
 layout: guest
-guest: Darren W Pulsipher
+title: Darren W Pulsipher
 parent: Guests
 ---
 
