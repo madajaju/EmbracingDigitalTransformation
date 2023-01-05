@@ -14,6 +14,7 @@ tags:
 date: 2023-01-05
 authors:
     - Darren W Pulsipher
+img: thumbnail.png
 ---
 
 In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces.

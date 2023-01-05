@@ -15,6 +15,7 @@ authors:
     - Darren W Pulsipher
     - Dr. Anna Scott
     - Steve Orrin
+img: thumbnail.png
 ---
 In this episode, Darren talks about the convergence of OT and IT cybersecurity with Security expert Steve Orrin and Industrial OT expert Dr. Anna Scott.
 

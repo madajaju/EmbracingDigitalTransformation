@@ -2,11 +2,18 @@
 layout: default
 title: #{{ page.number }} {{ page.title }}
 number: {{ page.number }}
+tags:
+    - {{ page.tags | join: ',\n\t-' }}
+authors:
+    - {{ page.authors | join: ',\n\t-' }}
 ---
 
 <h1>#{{ page.number }} {{ page.title }}</h1>
-<p><i>{{page.date | date_to_string }} - {{ page.authors | ',' }}</i></p>
-<p><i>Keywords: {{ page.tags | join: ', ' }}</i></p>
+<div>
+<p><i>{{page.date | date_to_string }} - by {{ page.authors | ', ' }}</i><br>
+<i><b>Keywords:</b> {{ page.tags | join: ', ' }}</i></p>
+</div>
+<div><img src="{{ page.img }}"></div>
 
 <hr>
 
