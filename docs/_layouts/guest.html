@@ -13,10 +13,14 @@ tags:
 <h2>Tags</h2>
 {% assign rawtags = "" %}
 {% for spage in site.pages %}
+{% if spage.guests contains page.title %}
 {% assign ttags = spage.tags | join:'|' | append:'|' %}
 {% assign rawtags = rawtags | append:ttags %}
+RawTags: {{ rawtags }}
+{% endif %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
+Done Raw Tags: {{rawtags}}
 
 {% assign page.tags = "" %}
 {% for tag in rawtags %}
