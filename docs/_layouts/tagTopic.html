@@ -7,13 +7,18 @@ parent: Tags
 <h1>#{{ page.title }}</h1>
 
 <h2>Episodes</h2>
+
+<ul>
+
 {% for spage in site.pages %}
 {% if spage.tags contains page.title %}
+
 <li>
-    <img class="thumbnail" src="{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
+    <img class="thumbnail" src="../{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
     <a href="/EmbracingDigitalTransformation/{{ spage.url }}">{{ spage.number}} - {{ spage.title }}</a><br>
     {{ spage.summary }}
 </li>
+
 {% endif %}
 {% endfor %}
 </ul>

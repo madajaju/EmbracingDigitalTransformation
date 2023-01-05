@@ -21,14 +21,14 @@ tags:
 {% for temptag in sortedtemptags %}
 {% assign tagitems = temptag | split: '#' %}
 {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-<a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+<a href="/tags/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
 {% endfor %}
 
 <h2>Episodes</h2>
 {% for spage in site.pages %}
 {% if spage.guests contains page.guest %}
 <li>
-    <img class="thumbnail" src="{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
+    <img class="thumbnail" src="../{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
     <a href="/EmbracingDigitalTransformation/{{ spage.url }}">{{ spage.number}} - {{ spage.title }}</a><br>
     {{ spage.summary }}
 </li>

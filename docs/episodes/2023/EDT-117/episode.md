@@ -7,7 +7,7 @@ has_children: false
 nav_order: 117
 parent: Episodes
 tags:
-    - Multi-Cloud
+    - MultiCloud
     - Cybersecurity
     - Edge Computing
     - Data Management
