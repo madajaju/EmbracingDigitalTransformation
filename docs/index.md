@@ -12,7 +12,7 @@ This is the description.
 {% for page in site.pages %}
 {% if page.number %}
 <li>
-<a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.title }} </a> - {{ page.excerpt }}
+<a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.title }} </a> - {{ page.summary }}
 </li>
 {% endif %}
 {% endfor %}
