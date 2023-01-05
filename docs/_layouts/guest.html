@@ -16,23 +16,18 @@ tags:
 {% if spage.guests contains page.title %}
 {% assign ttags = spage.tags | join:'|' | append:'|' %}
 {% assign rawtags = rawtags | append:ttags %}
-RawTags: {{ rawtags }}
 {% endif %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
-Done Raw Tags: {{rawtags}}
 
 {% assign sortedTags = "" %}
 {% for tag in rawtags %}
-{% if tag != "" %}
-{% if sortedTags == "" %}
-{% assign sortedTags = tag | split:'|' %}
-{% endif %}
 {% unless sortedTags contains tag %}
+Unless: {{ tag }} - {{ sortedTags }}<br>
 {% assign sortedTags = sortedTags | join:'|' | append:'|' | append:tag | split:'|' %}
 {% endunless %}
-{% endif %}
 {% endfor %}
+Tags: {{ sortedTags}}
 
 {% for tag in sortedTags %}
 <a href="/tags/{{ tagname }}">{{ tag }}</a>
