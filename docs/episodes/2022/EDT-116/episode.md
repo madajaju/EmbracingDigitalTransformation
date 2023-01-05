@@ -58,10 +58,10 @@ Continue to look for more podcasts on OT cybersecurity. Additionally, a whitepap
 <details>
 
 <summary> Podcast Transcript </summary>
-Hello, this is Darren
-
+<p>Hello, this is Darren
 Pulsipher, chief solution,
 architect of public sector at Intel.
+</p>
 
 And welcome to Embracing
 Digital Transformation,

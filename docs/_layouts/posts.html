@@ -44,13 +44,13 @@ guests:
     <p><i>on {{page.date}} </i></p>
     <p><i> with
         {% for guest in page.guests %}
-           <a href="/EmbracingDigitalTransformation/guests/ {{ guest | replace: ' ', '-'}}">{{ guest }}</a>,
+           <a href="/EmbracingDigitalTransformation/guests/{{ guest | replace: ' ', '-'}}">{{ guest }}</a>,
         {% endfor %}
     </i></p>
     <p><i><b>Keywords:</b>
         {% for tag in page.tags %}
             <a href="/EmbracingDigitalTransformation/tags/{{ tag | replace: ' ', '-' }}">#{{ tag }}</a>
-        {% endfor %}}
+        {% endfor %}
     </i></p>
 </div>
 
