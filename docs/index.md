@@ -10,7 +10,7 @@ This is the description.
 <h1>Episodes</h1>
 <ul>
 {% for page in site.pages %}
-{% if page.number != "" %}
+{% if page.number %}
 <li>
 <a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.title }} </a> - {{ page.excerpt }}
 </li>
