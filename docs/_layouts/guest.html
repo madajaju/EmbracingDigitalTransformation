@@ -22,29 +22,20 @@ RawTags: {{ rawtags }}
 {% assign rawtags = rawtags | split:'|' | sort %}
 Done Raw Tags: {{rawtags}}
 
-{% assign page.tags = "" %}
+{% assign sortedTags = "" %}
 {% for tag in rawtags %}
 {% if tag != "" %}
-{% if tags == "" %}
-{% assign tags = tag | split:'|' %}
+{% if sortedTags == "" %}
+{% assign sortedTags = tag | split:'|' %}
 {% endif %}
-{% unless tags contains tag %}
-{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+{% unless sortedTags contains tag %}
+{% assign sortedTags = sortedTags | join:'|' | append:'|' | append:tag | split:'|' %}
 {% endunless %}
 {% endif %}
 {% endfor %}
 
-
-{% capture temptags %}
-{% for tag in page.tags %}
-{{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-{% endfor %}
-{% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-{% for temptag in sortedtemptags %}
-{% assign tagitems = temptag | split: '#' %}
-{% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-<a href="/tags/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+{% for tag in sortedTags %}
+<a href="/tags/{{ tagname }}">{{ tag }}</a>
 {% endfor %}
 
 <h2>Episodes</h2>
