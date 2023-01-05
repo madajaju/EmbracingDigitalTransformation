@@ -10,6 +10,12 @@ This is the description.
 <h1>Episodes</h1>
 <ul>
 
+Tags:
+
+{{ site.tags }}
+
+:Tags
+
 {% for page in site.pages %}
 {% if page.number %}
 
