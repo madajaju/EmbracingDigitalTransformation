@@ -10,7 +10,7 @@ authors:
 
 <h1>#{{ page.number }} {{ page.title }}</h1>
 
-<img src="{{page.path}}/{{ page.img }}" style="float:right">
+<img src="{{page.dir}}/{{ page.img }}" style="float:right" width="128" height="128">
 <div style="clear:both">
     <p><i>{{page.date | date_to_string }} - by {{ page.authors | ', ' }}</i><br>
         <i><b>Keywords:</b> {{ page.tags | join: ', ' }}</i></p>
