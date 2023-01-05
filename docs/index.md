@@ -8,18 +8,19 @@ nav_order: 1
 This is the description.
 
 <h1>Episodes</h1>
-<table>
+<ul>
 
 {% for page in site.pages %}
 {% if page.number %}
 
-<tr>
-    <td><img src="{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128"></td>
-    <td><a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.number}} - {{ page.title }}</a>
-    <td>{{ page.summary }}</td>
-</tr>
-
+<li>
+    <img src="{{ page.path | remove: page.name }}/{{ page.img }}" style="float:left;" width="128" height="128">
+    <div style="clear:both;">
+        <a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.number}} - {{ page.title }}</a><br>
+        {{ page.summary }}
+    </div>
+</li>
 {% endif %}
 {% endfor %}
 
-</table>
+</ul>
