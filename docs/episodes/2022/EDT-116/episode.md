@@ -4,6 +4,7 @@ title: An Argument for a Holistic Approach to Critical Infrastructure
 number: 116
 permalink: EDT116
 has_children: false
+parent: Episodes
 nav_order: 116
 tags:
     - Cybersecurity
@@ -11,7 +12,7 @@ tags:
     - Critical Infrastructure
     - Data Management
 date: 2022-12-15
-authors:
+guests:
     - Darren W Pulsipher
     - Dr. Anna Scott
     - Steve Orrin

@@ -1,0 +1,49 @@
+---
+layout: default
+title: {{ page.guest }}
+guest: {{ page.guest }}
+parent: Guests
+tags:
+    - {{ page.tags | join: ',\n\t-' }}
+---
+
+<h1>#{{ page.guest }}</h1>
+
+{{ content }}
+
+<h2>Tags</h2>
+{% capture temptags %}
+{% for tag in page.tags %}
+{{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+{% endfor %}
+{% endcapture %}
+{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+{% for temptag in sortedtemptags %}
+{% assign tagitems = temptag | split: '#' %}
+{% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+<a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+{% endfor %}
+
+<h2>Episodes</h2>
+{% for spage in site.pages %}
+{% if spage.guests contains page.guest %}
+<li>
+    <img class="thumbnail" src="{{ spage.path | remove: spage.name }}/{{ spage.img }}" width="128" height="128">
+    <a href="/EmbracingDigitalTransformation/{{ spage.url }}">{{ spage.number}} - {{ spage.title }}</a><br>
+    {{ spage.summary }}
+</li>
+{% endif %}
+{% endfor %}
+</ul>
+
+<style>
+    .thumbnail {
+        float: left;
+        margin: 0 15px 0 0;
+    }
+    li {
+        list-style-type:none;
+        margin: 10px 0;
+    }
+</style>
+

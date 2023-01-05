@@ -4,8 +4,8 @@ title: #{{ page.number }} {{ page.title }}
 number: {{ page.number }}
 tags:
     - {{ page.tags | join: ',\n\t-' }}
-authors:
-    - {{ page.authors | join: ',\n\t-' }}
+guests:
+    - {{ page.guests | join: ',\n\t-' }}
 ---
 
 <style>
@@ -41,7 +41,7 @@ authors:
 <h1>#{{ page.number }} {{ page.title }}</h1>
 <div>
     <img src="{{ page.path | remove: page.name }}/{{ page.img }}" width="256" height="256" class="thumbnail">
-    <p><i>by {{ page.authors | join: ', ' }} - {{ page.date }}</i></p>
+    <p><i>by {{ page.guests | join: ', ' }} - {{ page.date }}</i></p>
     <p><i><b>Keywords:</b> {{ page.tags | join: ', ' }}</i></p>
 </div>
 

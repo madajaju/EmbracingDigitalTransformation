@@ -5,6 +5,7 @@ number: 117
 permalink: EDT117
 has_children: false
 nav_order: 117
+parent: Episodes
 tags:
     - Multi-Cloud
     - Cybersecurity
@@ -12,7 +13,7 @@ tags:
     - Data Management
     - Artificial Intelligence
 date: 2023-01-05
-authors:
+guests:
     - Darren W Pulsipher
 img: thumbnail.png
 summary: In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces.
