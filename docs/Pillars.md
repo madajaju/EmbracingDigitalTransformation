@@ -6,7 +6,7 @@ ___
 # Pillars
 Digital transformation has been on everyone’s strategic bucket list. Intel sees the big strategic bets in digital transformation in the coming year as Multi-Hybrid Cloud, Edge Computing, Cyber Security, Artificial Intelligence, Data Management, and Advanced Communications. Intel is deeply involved with all of them, as they have built the hardware and software to support each of the pillars. The pillars are interwoven, and Intel plays a crucial role in leading the industry forward.
 
-![Six Pillars](./pillars.png)
+![Six Pillars](pillars.png)
 
 * Modern Computing – Modern application and service development must be supported by multi-hybrid 
   cloud architecture.
