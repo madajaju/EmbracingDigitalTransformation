@@ -2003,3 +2003,32 @@ Until next time, go out
 and do something wonderful.
 
 </details>
+
+<details>
+<summary>Published Assets</summary>
+
+{% include soundcloud.html id="edt116" title="#116 An Argument for a Holistic Approach to Critical Infastructure" %}
+
+Sound cloud Episode
+
+{% include youtube.html id="DRGy_il_nUg" %}
+
+Youtube Episode
+
+{% include youtube.html id="TTWj-Bgmn4o" %}
+
+Youtube Short 4
+
+{% include youtube.html id="sx-XD7sdipk" %}
+
+Youtube Short 3
+
+{% include youtube.html id="7A7x_2kSHCc" %}
+
+Youtube Short 2
+
+{% include youtube.html id="RmuSVABluwU" %}
+
+Youtube Short 1
+
+</details>
