@@ -7,9 +7,9 @@ has_children: false
 parent: Episodes
 nav_order: 1
 tags:
-     - EDT111
-    - EmbracingDigital
-date: 
+    - Data Management
+    - Data Architecture
+date:  2020-02-04
 guests:
     - Darren W Pulsipher
 img: TBD

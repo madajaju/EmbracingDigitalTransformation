@@ -7,14 +7,15 @@ has_children: false
 parent: Episodes
 nav_order: 116
 tags:
-     - EDT111
-    - EmbracingDigital
-date: 
+    - Cybersecurity
+    - Critical Infrastructure
+    - OT Security
+date: 2022-12-15
 guests:
     - Darren W Pulsipher
     - Steve Orrin
     - Anna Scott
-img: TBD
+img: thumbnail.png
 summary: In this episode, Darren talks about the converance of OT and IT cybersecurity with Security expert Steve Orrin and Industrial OT expert Dr. Anna Scott
 ---
 
