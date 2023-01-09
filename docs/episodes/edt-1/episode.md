@@ -9,10 +9,10 @@ nav_order: 1
 tags:
     - Data Management
     - Data Architecture
-date:  2020-02-04
+date: 2020-02-04
 guests:
     - Darren W Pulsipher
-img: TBD
+img: thumbnail.png
 summary: In this episode, Darren talks about the history of applications and how recent changes, primarily due to the onslaught of data from the Internet of Things, is affecting data-centric architectures. The infrastructure is ready, but we don%92t yet have a suitable way to manage all our data. There are three elements that need to change to facilitate this process: people (organization), process (operation), and architecture (technology). Darren focuses on the architecture where data and compute are spread over thousands of edge devices and across public and private clouds.
 ---
 

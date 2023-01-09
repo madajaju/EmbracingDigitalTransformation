@@ -7,11 +7,11 @@ has_children: false
 parent: Episodes
 nav_order: 2
 tags:
-     - IoT
+    - IoT
     - DoD
     - Data Management
     - CyberSecurity
-date: 
+date:  2020-03-14
 guests:
     - Darren W Pulsipher
 img: thumbnail.png
