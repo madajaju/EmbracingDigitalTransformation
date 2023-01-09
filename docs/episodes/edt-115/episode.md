@@ -7,8 +7,6 @@ has_children: false
 parent: Episodes
 nav_order: 115
 tags:
-     - EDT115
-    - EmbracingDigital
     - ZTA
     - ZeroTrust
     - CyberHygiene
@@ -16,7 +14,7 @@ tags:
 date: 
 guests:
     - Darren W Pulsipher
-img: TBD
+img: thumbnail.png
 summary: In this episode, Darren talks about cybersecurity with returning guest John Evans, Chief Technology Advisor at World Wide Technology (WWT).
 ---
 
