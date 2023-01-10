@@ -20,7 +20,7 @@ Digital Transformation. Join the community by checking out the links below.
 
 <h1>Episodes</h1>
 <ul>
-{% assign sortedPages = site.pages | sort: 'nav_order %}
+{% assign sortedPages = site.pages | sort: 'nav_order' %}
 {% for page in sortedPages reversed %}
 {% if page.number %}
 <li>
