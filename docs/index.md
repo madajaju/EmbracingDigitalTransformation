@@ -20,8 +20,8 @@ Digital Transformation. Join the community by checking out the links below.
 
 <h1>Episodes</h1>
 <ul>
-{% assign sortedPages = site.pages | sort: 'nav_order' %}
-{% for page in sortedPages reversed %}
+{% assign sortedPages = site.pages | sort: 'nav_order' | reverse %}
+{% for page in sortedPages %}
 {% if page.number %}
 <li>
     <img class="thumbnail" src="{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128">
