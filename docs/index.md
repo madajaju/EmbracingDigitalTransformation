@@ -21,9 +21,8 @@ Digital Transformation. Join the community by checking out the links below.
 <h1>Episodes</h1>
 <ul>
 
-{% for page in site.pages %}
+{% for page in site.pages | sort: 'nav_order'  reversed limit:10 %}
 {% if page.number %}
-
 <li>
     <img class="thumbnail" src="{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128">
     <a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.number}} - {{ page.title }}</a><br>
