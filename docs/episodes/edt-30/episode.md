@@ -1,13 +1,13 @@
 ---
 layout: posts
-title: Application Portability with OneAPI
+title: "Application Portability with OneAPI"
 number: 30
 permalink: EDT30
 has_children: false
 parent: Episodes
 nav_order: 30
 tags:
-     - Artificial Intelligence
+    - Artificial Intelligence
     - AI
     - AIML
     - DevOps
@@ -16,11 +16,13 @@ tags:
     - Software Developer
     - AI Developer
     - Portable AI
-date: 
+
+date: 2020-11-17
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: With oneAPI, Intel has created a unified software environment for development, geared toward data processing. Gretchen Stewart, Chief Data Scientist, Public Sector, Intel, discusses this technology with Darren Pulsipher, Chief Solution Architect, Intel, that eliminates the need for using a different language for different architectures.
+summary: "With oneAPI, Intel has created a unified software environment for development, geared toward data processing. Gretchen Stewart, Chief Data Scientist, Public Sector, Intel, discusses this technology with Darren Pulsipher, Chief Solution Architect, Intel, that eliminates the need for using a different language for different architectures."
 ---
 
 {% include soundcloud.html id="edt30" title="#30 Application Portability with OneAPI" %}

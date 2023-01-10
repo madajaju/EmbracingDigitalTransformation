@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Using Data as a Strategic Asset
+title: "Using Data as a Strategic Asset"
 number: 19
 permalink: EDT19
 has_children: false
 parent: Episodes
 nav_order: 19
 tags:
-     - Data Architecture
+    - Data Architecture
     - Data Management
     - Data Strategy
-date: 
+
+date: 2020-09-08
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: In this episode, Darren Pulsipher, Intel Chief Solution Architect, Public Sector, explores how organizations can move from simply hoarding data to using it as a strategic asset.
+summary: "In this episode, Darren Pulsipher, Intel Chief Solution Architect, Public Sector, explores how organizations can move from simply hoarding data to using it as a strategic asset."
 ---
 
 {% include soundcloud.html id="edt19" title="#19 Using Data as a Strategic Asset" %}

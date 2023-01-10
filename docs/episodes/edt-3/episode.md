@@ -1,22 +1,23 @@
 ---
 layout: posts
-title: Put the Title Right Here
+title: "Benefits of Multi-Cloud Architecture"
 number: 3
 permalink: EDT3
 has_children: false
 parent: Episodes
 nav_order: 3
 tags:
-     - EDT111
-    - EmbracingDigital
-date: 
+    - Multi-Cloud
+
+date: 2020-06-23
 guests:
     - Darren W Pulsipher
+
 img: TBD
-summary: A multi-hybrid cloud architecture allows organizations to take advantage of the benefits of both private and public clouds, optimizing resources and cost efficiency. This model has five main advantages: agility, flexibility, predictive performance, security and compliance, and efficiency.
+summary: "A multi-hybrid cloud architecture allows organizations to take advantage of the benefits of both private and public clouds, optimizing resources and cost efficiency. This model has five main advantages: agility, flexibility, predictive performance, security and compliance, and efficiency."
 ---
 
-{% include soundcloud.html id="edt3" title="#3 Put the Title Right Here" %}
+{% include soundcloud.html id="edt3" title="#3 Benefits of Multi-Cloud Architecture" %}
 
 {% include youtube.html id="14mcgaHLoPU" %}
 

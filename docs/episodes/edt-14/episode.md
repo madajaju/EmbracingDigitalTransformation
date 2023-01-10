@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Kickstarting Your Organizational Transformation to Become Data-Centric
+title: "Kickstarting Your Organizational Transformation to Become Data-Centric"
 number: 14
 permalink: EDT14
 has_children: false
 parent: Episodes
 nav_order: 14
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
-date: 
+
+date: 2020-08-20
 guests:
     - Darren W Pulsipher
     - Sarah Kalicin
+
 img: thumbnail.png
-summary: Today’s episode is all about kick-starting your organization to become data centric and the value this can bring. Darren’s special guest is Sarah Kalicin, lead data scientist for data centers at Intel.
+summary: "Today’s episode is all about kick-starting your organization to become data centric and the value this can bring. Darren’s special guest is Sarah Kalicin, lead data scientist for data centers at Intel."
 ---
 
 {% include soundcloud.html id="edt14" title="#14 Kickstarting Your Organizational Transformation to Become Data-Centric" %}

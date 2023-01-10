@@ -1,21 +1,23 @@
 ---
 layout: posts
-title: Distance Teaching and Learning
+title: "Distance Teaching and Learning"
 number: 11
 permalink: EDT11
 has_children: false
 parent: Episodes
 nav_order: 11
 tags:
-     - RemoteLearning
+    - RemoteLearning
     - TeleLearning
-date: 
+
+date: 2020-08-12
 guests:
     - Darren W Pulsipher
     - Erin Moseley
     - Grant Kelly
+
 img: thumbnail.png
-summary: In this episode, Erin Moseley, Sr. Account Exec for Education at Intel, and Grant Kelly, Solution Architect for Education at Intel, join Darren to talk about the challenges of distance learning and teaching and the overwhelming changes that school districts, teachers, parents, and students are absorbing during the Covid-19 pandemic. Find out how students and teachers are connecting with new technologies and ways of learning.
+summary: "In this episode, Erin Moseley, Sr. Account Exec for Education at Intel, and Grant Kelly, Solution Architect for Education at Intel, join Darren to talk about the challenges of distance learning and teaching and the overwhelming changes that school districts, teachers, parents, and students are absorbing during the Covid-19 pandemic. Find out how students and teachers are connecting with new technologies and ways of learning."
 ---
 
 {% include soundcloud.html id="edt11" title="#11 Distance Teaching and Learning" %}

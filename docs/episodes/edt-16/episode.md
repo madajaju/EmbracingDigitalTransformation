@@ -1,19 +1,21 @@
 ---
 layout: posts
-title: Decreasing Ingestion Congestion with Intel Optane DCPMM
+title: "Decreasing Ingestion Congestion with Intel Optane DCPMM"
 number: 16
 permalink: EDT16
 has_children: false
 parent: Episodes
 nav_order: 16
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
-date: 
+
+date: 2020-08-25
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: In this episode, Darren talks about decreasing ingestion congestion using Intel’s Optane DC Persistent Memory, and the experiment he conducted with surprising results. It just might change the way we think about programming in the future.
+summary: "In this episode, Darren talks about decreasing ingestion congestion using Intel’s Optane DC Persistent Memory, and the experiment he conducted with surprising results. It just might change the way we think about programming in the future."
 ---
 
 {% include soundcloud.html id="edt16" title="#16 Decreasing Ingestion Congestion with Intel Optane DCPMM" %}

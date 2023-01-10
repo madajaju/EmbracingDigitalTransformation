@@ -1,19 +1,21 @@
 ---
 layout: posts
-title: Legacy Integration with Cloud and RPA
+title: "Legacy Integration with Cloud and RPA"
 number: 28
 permalink: EDT28
 has_children: false
 parent: Episodes
 nav_order: 28
 tags:
-     - RPA
+    - RPA
     - Business Automation
-date: 
+
+date: 2020-11-06
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: One of the growing areas to help with Legacy Integration and automation of integration is the use of automation tools and frameworks. Over the last 3 years, a significant emphasis on the automation of workflows with legacy and new cloud-aware applications for information workers has emerged. These tools sets are called Robotic Process Automation (RPA) tools. Darren Pulsipher, Chief Solution Architect, Public Sector, Intel, reviews the Robotic Process Automation (RPA) industry and tool offerings.
+summary: "One of the growing areas to help with Legacy Integration and automation of integration is the use of automation tools and frameworks. Over the last 3 years, a significant emphasis on the automation of workflows with legacy and new cloud-aware applications for information workers has emerged. These tools sets are called Robotic Process Automation (RPA) tools. Darren Pulsipher, Chief Solution Architect, Public Sector, Intel, reviews the Robotic Process Automation (RPA) industry and tool offerings."
 ---
 
 {% include soundcloud.html id="edt28" title="#28 Legacy Integration with Cloud and RPA" %}

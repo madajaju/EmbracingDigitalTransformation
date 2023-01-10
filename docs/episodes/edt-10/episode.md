@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Teleworker Sizing Your VDI Solution
+title: "Teleworker Sizing Your VDI Solution"
 number: 10
 permalink: EDT10
 has_children: false
 parent: Episodes
 nav_order: 10
 tags:
-     - Telework
+    - Telework
     - VDI
-date: 
+
+date: 2020-08-05
 guests:
     - Darren W Pulsipher
     - Illyse Sheaffer
+
 img: thumbnail.png
-summary: Organizations need help in building VDI (Virtual Desktop Infrastructure) solutions immediately. As IT Departments are adding VDI licenses locally to their current systems, they need to be aware that licenses alone don’t solve all of their problems.
+summary: "Organizations need help in building VDI (Virtual Desktop Infrastructure) solutions immediately. As IT Departments are adding VDI licenses locally to their current systems, they need to be aware that licenses alone don’t solve all of their problems."
 ---
 
 {% include soundcloud.html id="edt10" title="#10 Teleworker Sizing Your VDI Solution" %}

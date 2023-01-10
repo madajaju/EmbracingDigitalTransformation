@@ -1,13 +1,13 @@
 ---
 layout: posts
-title: Information Management Maturity Model
+title: "Information Management Maturity Model"
 number: 4
 permalink: EDT4
 has_children: false
 parent: Episodes
 nav_order: 4
 tags:
-     - Data Management
+    - Data Management
     - Information Management
     - Information Maturity
     - Data Governance
@@ -15,11 +15,13 @@ tags:
     - Data Lake
     - Data Mesh
     - Data Lineage
-date: 
+
+date: 2020-06-30
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: In this episode, we will talk about the Information Management Maturity Model and how we can use that model to help our organizations move forward. This model can help you identify where your organization is and where it is going in its information management strategy, ultimately deriving maximum business value from your data
+summary: "In this episode, we will talk about the Information Management Maturity Model and how we can use that model to help our organizations move forward. This model can help you identify where your organization is and where it is going in its information management strategy, ultimately deriving maximum business value from your data"
 ---
 
 {% include soundcloud.html id="edt4" title="#4 Information Management Maturity Model" %}

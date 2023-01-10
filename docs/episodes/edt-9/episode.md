@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Telework Securing Your Home Office
+title: "Telework Securing Your Home Office"
 number: 9
 permalink: EDT9
 has_children: false
 parent: Episodes
 nav_order: 9
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
-date: 
+
+date: 2020-08-04
 guests:
     - Darren W Pulsipher
     - Steve Orrin
+
 img: thumbnail.png
-summary: Summary
+summary: "Summary"
 ---
 
 {% include soundcloud.html id="edt9" title="#9 Telework Securing Your Home Office" %}

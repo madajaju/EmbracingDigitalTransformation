@@ -1,22 +1,24 @@
 ---
 layout: posts
-title: The AWS Outage of Nov 2020
+title: "The AWS Outage of Nov 2020"
 number: 33
 permalink: EDT33
 has_children: false
 parent: Episodes
 nav_order: 33
 tags:
-     - AWS
+    - AWS
     - Cloud Outage
     - Cloud Reliability
     - Multi-Cloud
     - Reliability
-date: 
+
+date: 2020-12-15
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: Darren Pulsipher, Chief Solution Architect, Public Sector, at Intel talks about the lessons learned from the AWS outage in November 2020 and preventative solutions to navigating such outages.
+summary: "Darren Pulsipher, Chief Solution Architect, Public Sector, at Intel talks about the lessons learned from the AWS outage in November 2020 and preventative solutions to navigating such outages."
 ---
 
 {% include soundcloud.html id="edt33" title="#33 The AWS Outage of Nov 2020" %}

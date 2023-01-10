@@ -1,21 +1,25 @@
 ---
 layout: posts
-title: Blocking and Tackling of Security
+title: "Blocking and Tackling of Security"
 number: 115
 permalink: EDT115
 has_children: false
 parent: Episodes
 nav_order: 115
 tags:
+    - EDT115
+    - EmbracingDigital
     - ZTA
     - ZeroTrust
     - CyberHygiene
     - Cybersecurity
+
 date: 
 guests:
     - Darren W Pulsipher
-img: thumbnail.png
-summary: In this episode, Darren talks about cybersecurity with returning guest John Evans, Chief Technology Advisor at World Wide Technology (WWT).
+
+img: TBD
+summary: "In this episode, Darren talks about cybersecurity with returning guest John Evans, Chief Technology Advisor at World Wide Technology (WWT)."
 ---
 
 {% include soundcloud.html id="edt115" title="#115 Blocking and Tackling of Security" %}

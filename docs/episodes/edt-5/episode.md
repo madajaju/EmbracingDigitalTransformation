@@ -1,21 +1,23 @@
 ---
 layout: posts
-title: Infrastructure Maturity Model
+title: "Infrastructure Maturity Model"
 number: 5
 permalink: EDT5
 has_children: false
 parent: Episodes
 nav_order: 5
 tags:
-     - Infrastructure Maturity
+    - Infrastructure Maturity
     - SDI
     - Cloud
     - Multi-Cloud
-date: 
+
+date: 2020-07-24
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: Digital transformation can be difficult. Many organizations become paralyzed when trying to decipher all of the technologies that are thrown at them every day. On this journey, like any other, it is important to have a map. In this episode, Darren explains the Infrastructure Maturity Model to help organizations find out where they are in their digital transformation, where they can go next, and how to get there.
+summary: "Digital transformation can be difficult. Many organizations become paralyzed when trying to decipher all of the technologies that are thrown at them every day. On this journey, like any other, it is important to have a map. In this episode, Darren explains the Infrastructure Maturity Model to help organizations find out where they are in their digital transformation, where they can go next, and how to get there."
 ---
 
 {% include soundcloud.html id="edt5" title="#5 Infrastructure Maturity Model" %}

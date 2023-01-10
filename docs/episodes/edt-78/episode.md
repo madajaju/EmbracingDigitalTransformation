@@ -1,19 +1,21 @@
 ---
 layout: posts
-title: Put the Title Right Here
+title: "Put the Title Right Here"
 number: 78
 permalink: EDT78
 has_children: false
 parent: Episodes
 nav_order: 78
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
+
 date: 
 guests:
     - Darren W Pulsipher
+
 img: TBD
-summary: Summary
+summary: "Summary"
 ---
 
 {% include soundcloud.html id="edt78" title="#78 Put the Title Right Here" %}

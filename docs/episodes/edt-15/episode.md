@@ -1,22 +1,24 @@
 ---
 layout: posts
-title: Kick-starting Organizational Transformation
+title: "Kick-starting Organizational Transformation"
 number: 15
 permalink: EDT15
 has_children: false
 parent: Episodes
 nav_order: 15
 tags:
-     - Data Management
+    - Data Management
     - Organizational Management
     - Data-centric Organization
     - Organizational Change
-date: 
+
+date: 2020-08-21
 guests:
     - Darren W Pulsipher
     - Sarah Kalicin
+
 img: thumbnail.png
-summary: Creating successful data-driven results starts with a strong organizational foundation. Darren and his guest Sarah Kalicin, Lead Data Scientist Data Center Group Intel, discuss the key aspects to this fundamental change.
+summary: "Creating successful data-driven results starts with a strong organizational foundation. Darren and his guest Sarah Kalicin, Lead Data Scientist Data Center Group Intel, discuss the key aspects to this fundamental change."
 ---
 
 {% include soundcloud.html id="edt15" title="#15 Kick-starting Organizational Transformation" %}

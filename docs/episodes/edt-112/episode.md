@@ -1,23 +1,25 @@
 ---
 layout: posts
-title: Myths of Lift and Shift Cloud Migration #112
+title: "Myths of Lift and Shift Cloud Migration #112"
 number: 112
 permalink: EDT112
 has_children: false
 parent: Episodes
 nav_order: 112
 tags:
-     - EDT112
+    - EDT112
     - EmbracingDigital
     - Multi-Cloud
     - Cloud Migration
     - Cloud
+
 date: 
 guests:
     - Darren W Pulsipher
     - John Evans
+
 img: TBD
-summary: Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, and John Evans, Chief Technology Advisor, WWT, discuss five lift and shift cloud migration myths.
+summary: "Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, and John Evans, Chief Technology Advisor, WWT, discuss five lift and shift cloud migration myths."
 ---
 
 {% include soundcloud.html id="edt112" title="#112 Myths of Lift and Shift Cloud Migration #112" %}

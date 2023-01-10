@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: 2022 Year In Review
+title: "2022 Year In Review"
 number: 117
 permalink: EDT117
 has_children: false
@@ -8,17 +8,21 @@ parent: Episodes
 nav_order: 117
 tags:
     - 2022
+    - EDT117
+    - EmbracingDigital
     - Edge Computing
     - AI
     - Hybrid Workspace
     - Multi-Cloud
     - Cybersecurity
     - Data Management
+
 date: 2023-01-05
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces. 
+summary: "In this episode Darren reviews 2022. He identifies the most talked about topics on the podcast in 2022 including Data Management, Artificial Intelligence, Cyber Security, Edge Computing, and Hybrid Workspaces. "
 ---
 
 {% include soundcloud.html id="edt117" title="#117 2022 Year In Review" %}
@@ -65,9 +69,16 @@ Artificial intelligence continues to make improvements in techniques and operati
 
 2022 was a rough year for many tech companies as we saw a decrease in IT spending over the previous “pandemic years of spending.” This expected downturn surprised many high-tech companies with how quickly things changed. Despite the downturn, technology continued to grow, and the adoption of new technologies in edge, cloud, AI, data management, and cybersecurity continues to grow. 2023 should be an exciting year as we see the maturation of some of these technologies. Organizations will continue investigating ways to decrease costs through automation, optimizing workloads across multi-hybrid clouds, and protecting against increased cyber security threats.
 
+[![Youtube Video](https://img.youtube.com/vi/lxRMINWH48g/maxresdefault.jpg)](https://www.youtube.com/watch?
+v=lxRMINWH48g)
+
+<video src="https://youtu.be/lxRMINWH48g"></video>
+
+
 <details>
 <summary> Podcast Transcript </summary>
 
+<p>﻿1</p>
 <p>On today's episode,</p>
 <p>a look back at 2022.</p>
 <p>Hey, today it's just me on the podcast</p>

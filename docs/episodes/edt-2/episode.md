@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Follow the Bit
+title: "Follow the Bit"
 number: 2
 permalink: EDT2
 has_children: false
@@ -11,11 +11,13 @@ tags:
     - DoD
     - Data Management
     - CyberSecurity
-date:  2020-03-14
+
+date: 2020-06-18
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: In this episode, Darren interviews Greg Clifton, Director of Department of Defense (DOD) and Intelligence for Intel Corp. They discuss the challenges of data management in a complex system that spans multiple clouds, enterprise data centers, regional data centers, and tactical edge. Listen to Darren and Greg follow a bit of data from its collection and journey through this ecosystem to the production of actionable information for analysts and warfighters. Listen to Darren and Greg discuss some of the obstacles in this large, circular environment and solutions to help get actionable information to analysts and back to warfighters.
+summary: "In this episode, Darren interviews Greg Clifton, Director of Department of Defense (DOD) and Intelligence for Intel Corp. They discuss the challenges of data management in a complex system that spans multiple clouds, enterprise data centers, regional data centers, and tactical edge. Listen to Darren and Greg follow a bit of data from its collection and journey through this ecosystem to the production of actionable information for analysts and warfighters. Listen to Darren and Greg discuss some of the obstacles in this large, circular environment and solutions to help get actionable information to analysts and back to warfighters."
 ---
 
 {% include soundcloud.html id="edt2" title="#2 Follow the Bit" %}

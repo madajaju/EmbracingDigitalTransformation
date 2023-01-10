@@ -1,19 +1,21 @@
 ---
 layout: posts
-title: Elastic Search & Intel Optane DCPMM
+title: "Elastic Search & Intel Optane DCPMM"
 number: 17
 permalink: EDT17
 has_children: false
 parent: Episodes
 nav_order: 17
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
-date: 
+
+date: 2020-08-31
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: Darren Pulsipher shows how he increased Elasticsearch performance using Intel%92s Optane Persistent Memory in 100 percent app direct mode. His tests show an incredible performance increase of 2x. By doubling the throughput capacity, you can greatly decrease the number of servers in your Elasticsearch cluster.
+summary: "Darren Pulsipher shows how he increased Elasticsearch performance using Intel%92s Optane Persistent Memory in 100 percent app direct mode. His tests show an incredible performance increase of 2x. By doubling the throughput capacity, you can greatly decrease the number of servers in your Elasticsearch cluster."
 ---
 
 {% include soundcloud.html id="edt17" title="#17 Elastic Search & Intel Optane DCPMM" %}

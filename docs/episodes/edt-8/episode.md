@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Securing the Teleworker Part 2
+title: "Securing the Teleworker Part 2"
 number: 8
 permalink: EDT8
 has_children: false
 parent: Episodes
 nav_order: 8
 tags:
-     - CyberSecurity
+    - CyberSecurity
     - Teleworker
-date: 
+
+date: 2020-08-04
 guests:
     - Darren W Pulsipher
     - Seven Orrin
+
 img: thumbnail.png
-summary: With many employees now working from home, how do you make sure they are working securely yet still give them the flexibility they need to get their jobs done? In this episode, Darren and special Guest Steve Orrin, CTO of Intel Federal, discuss how to leverage Intel technology to effectively help secure the teleworker.  
+summary: "With many employees now working from home, how do you make sure they are working securely yet still give them the flexibility they need to get their jobs done? In this episode, Darren and special Guest Steve Orrin, CTO of Intel Federal, discuss how to leverage Intel technology to effectively help secure the teleworker.  "
 ---
 
 {% include soundcloud.html id="edt8" title="#8 Securing the Teleworker Part 2" %}

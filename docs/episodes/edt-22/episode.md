@@ -1,19 +1,21 @@
 ---
 layout: posts
-title: An Argument for Multi-Hybrid Cloud
+title: "An Argument for Multi-Hybrid Cloud"
 number: 22
 permalink: EDT22
 has_children: false
 parent: Episodes
 nav_order: 22
 tags:
-     - EDT111
+    - EDT111
     - EmbracingDigital
-date: 
+
+date: 2020-09-23
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: Darren Pulsipher describes why a Multi-Hybrid Cloud Architect may already be in your Data Center. Most organizations already all of the ingredients. They just need to know how they fit together.
+summary: "Darren Pulsipher describes why a Multi-Hybrid Cloud Architect may already be in your Data Center. Most organizations already all of the ingredients. They just need to know how they fit together."
 ---
 
 {% include soundcloud.html id="edt22" title="#22 An Argument for Multi-Hybrid Cloud" %}

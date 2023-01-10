@@ -1,24 +1,26 @@
 ---
 layout: posts
-title: Hardware Security: Imperative for Transforming Data
+title: "Hardware Security: Imperative for Transforming Data"
 number: 27
 permalink: EDT27
 has_children: false
 parent: Episodes
 nav_order: 27
 tags:
-     - Data Governance
+    - Data Governance
     - Data Management
     - Data Protection
     - SGX
     - Confidential Computing
     - Secure Enclave
-date: 
+
+date: 2020-10-28
 guests:
     - Darren W Pulsipher
     - Jesse Schrater
+
 img: thumbnail.png
-summary: Darren Pulsipher, Chief Solution Architect, Public Sector, Intel, and Jesse Schrater, Security Manager, Data Platforms Group, Intel, discuss the current security landscape and how Intel’s SGX and partnered ecosystem offers a timely and tested solution for data in use and other security concerns.
+summary: "Darren Pulsipher, Chief Solution Architect, Public Sector, Intel, and Jesse Schrater, Security Manager, Data Platforms Group, Intel, discuss the current security landscape and how Intel’s SGX and partnered ecosystem offers a timely and tested solution for data in use and other security concerns."
 ---
 
 {% include soundcloud.html id="edt27" title="#27 Hardware Security: Imperative for Transforming Data" %}

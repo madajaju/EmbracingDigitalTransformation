@@ -1,25 +1,27 @@
 ---
 layout: posts
-title: Operationalizing Business Process Management
+title: "Operationalizing Business Process Management"
 number: 113
 permalink: EDT113
 has_children: false
 parent: Episodes
 nav_order: 113
 tags:
-     - EDT113
+    - EDT113
     - EmbracingDigital
     - Business Process Management
     - Automation
     - Camunda
     - CapitalBPM
     - BPM
+
 date: 
 guests:
     - Darren W Pulsipher
     - Max Young
+
 img: TBD
-summary: In this episode, Darren discusses business process management and automation with Max Young, CEO of Capital BPM
+summary: "In this episode, Darren discusses business process management and automation with Max Young, CEO of Capital BPM"
 ---
 
 {% include soundcloud.html id="edt113" title="#113 Operationalizing Business Process Management" %}

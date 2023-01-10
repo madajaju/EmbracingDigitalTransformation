@@ -1,23 +1,25 @@
 ---
 layout: posts
-title: Next-Generation Hyperscale Database - Aerospike
+title: "Next-Generation Hyperscale Database - Aerospike"
 number: 29
 permalink: EDT29
 has_children: false
 parent: Episodes
 nav_order: 29
 tags:
-     - Aerospike
+    - Aerospike
     - Database
     - Ingestion
     - Optane
     - Temporal Database
-date: 
+
+date: 2020-11-12
 guests:
     - Darren W Pulsipher
     - Tim Faulkes
+
 img: thumbnail.png
-summary: Databases are showing their age, still taking some time to get results. Aerospike, with the help of Intel technology (Optane), breaks through with speed, volume, and low latency. Tim Faulkes, Vice President of Solutions Architecture at Aerospike, joins Darren Pulsipher, Chief Solutions Architect, Intel, to discuss the benefits of Aerospike technology.
+summary: "Databases are showing their age, still taking some time to get results. Aerospike, with the help of Intel technology (Optane), breaks through with speed, volume, and low latency. Tim Faulkes, Vice President of Solutions Architecture at Aerospike, joins Darren Pulsipher, Chief Solutions Architect, Intel, to discuss the benefits of Aerospike technology."
 ---
 
 {% include soundcloud.html id="edt29" title="#29 Next-Generation Hyperscale Database - Aerospike" %}

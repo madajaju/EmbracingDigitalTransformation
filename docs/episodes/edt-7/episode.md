@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Securing the Teleworker
+title: "Securing the Teleworker"
 number: 7
 permalink: EDT7
 has_children: false
 parent: Episodes
 nav_order: 7
 tags:
-     - Teleworker
+    - Teleworker
     - CyberSecurity
-date: 
+
+date: 2020-07-28
 guests:
     - Darren W Pulsipher
     - Steve Orrin
+
 img: thumbnail.png
-summary: With the huge shift in people now working from home instead of the office, security is a growing concern for many IT organizations. In this episode, Steve Orrin, CTO of Intel Federal, and Darren discuss the security threats and solutions to help secure your teleworker and enterprise data centers.
+summary: "With the huge shift in people now working from home instead of the office, security is a growing concern for many IT organizations. In this episode, Steve Orrin, CTO of Intel Federal, and Darren discuss the security threats and solutions to help secure your teleworker and enterprise data centers."
 ---
 
 {% include soundcloud.html id="edt7" title="#7 Securing the Teleworker" %}

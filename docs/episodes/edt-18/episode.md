@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Data Collection and Preparation
+title: "Data Collection and Preparation"
 number: 18
 permalink: EDT18
 has_children: false
 parent: Episodes
 nav_order: 18
 tags:
-     - Data Architecture
+    - Data Architecture
     - Data-centric
     - Data Management
-date: 
+
+date: 2020-08-31
 guests:
     - Darren W Pulsipher
+
 img: thumbnail.png
-summary: Sarah Kalicin, Lead Data Scientist at Intel and Darren Pulsipher, Chief Solution Architect, Public Sector at Intel talk about the process and benefits of data collection and preparation in becoming a data-centric organization. This is step two in the journey of becoming a data-centric organization.
+summary: "Sarah Kalicin, Lead Data Scientist at Intel and Darren Pulsipher, Chief Solution Architect, Public Sector at Intel talk about the process and benefits of data collection and preparation in becoming a data-centric organization. This is step two in the journey of becoming a data-centric organization."
 ---
 
 {% include soundcloud.html id="edt18" title="#18 Data Collection and Preparation" %}

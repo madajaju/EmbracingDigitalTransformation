@@ -1,23 +1,25 @@
 ---
 layout: posts
-title: Operationalizing Data Pipelines
+title: "Operationalizing Data Pipelines"
 number: 25
 permalink: EDT25
 has_children: false
 parent: Episodes
 nav_order: 25
 tags:
-     - Data Architecture
+    - Data Architecture
     - Data-centric
     - Data Management
     - DataOps
     - Data Pipeline
-date: 
+
+date: 2020-10-14
 guests:
     - Darren W Pulsipher
     - Sarah Kalicin
+
 img: thumbnail.png
-summary: Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, talks to Sarah Kalicin, Lead Data Scientist, Intel about operationalizing your organization’s data pipeline. It takes a team effort to model, monitor, and produce an ongoing source of valuable information. This is the final episode in the series Kick-starting your Organizational Transformation to Become Data-Centric.
+summary: "Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, talks to Sarah Kalicin, Lead Data Scientist, Intel about operationalizing your organization’s data pipeline. It takes a team effort to model, monitor, and produce an ongoing source of valuable information. This is the final episode in the series Kick-starting your Organizational Transformation to Become Data-Centric."
 ---
 
 {% include soundcloud.html id="edt25" title="#25 Operationalizing Data Pipelines" %}

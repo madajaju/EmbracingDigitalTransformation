@@ -1,22 +1,24 @@
 ---
 layout: posts
-title: Improving Employee Value with Catalytic
+title: "Improving Employee Value with Catalytic"
 number: 31
 permalink: EDT31
 has_children: false
 parent: Episodes
 nav_order: 31
 tags:
-     - RPA
+    - RPA
     - Automation
     - Catalytic
-date: 
+
+date: 2020-12-08
 guests:
     - Darren W Pulsipher
     - Sean Chou
     - Neil Bahandur
+
 img: thumbnail.png
-summary: In part one of two episodes, Sean Chou, Catalytic CEO, and Neil Bahandur, Catalytic Head of Partnerships, join Darren to talk about Catalytic’s technology and how RPAs can help employees become more valuable through automation of back office repeatable processes. 
+summary: "In part one of two episodes, Sean Chou, Catalytic CEO, and Neil Bahandur, Catalytic Head of Partnerships, join Darren to talk about Catalytic’s technology and how RPAs can help employees become more valuable through automation of back office repeatable processes. "
 ---
 
 {% include soundcloud.html id="edt31" title="#31 Improving Employee Value with Catalytic" %}

@@ -1,24 +1,26 @@
 ---
 layout: posts
-title: Insight Creation in Data-Centric Organizations
+title: "Insight Creation in Data-Centric Organizations"
 number: 23
 permalink: EDT23
 has_children: false
 parent: Episodes
 nav_order: 23
 tags:
-     - AIML
+    - AIML
     - Artificial Intelligence
     - Data Architecture
     - Data-centric
     - Data Management
     - Insight
-date: 
+
+date: 2020-09-30
 guests:
     - Darren W Pulsipher
     - Sarah Kalicin
+
 img: thumbnail.png
-summary: In part 5 of a series, Kick-starting your Organizational Transformation to Become Data Centric, Sarah Kalicin, Lead Data Scientist, Intel, and Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, discuss how to create insight using AI and machine learning in a data-centric organization.
+summary: "In part 5 of a series, Kick-starting your Organizational Transformation to Become Data Centric, Sarah Kalicin, Lead Data Scientist, Intel, and Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, discuss how to create insight using AI and machine learning in a data-centric organization."
 ---
 
 {% include soundcloud.html id="edt23" title="#23 Insight Creation in Data-Centric Organizations" %}

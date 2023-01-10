@@ -1,22 +1,23 @@
 ---
 layout: posts
-title: An Argument for a Holistic approach to Critical Infrastructure Security
+title: "An Argument for a Holistic approach to Critical Infrastructure Security"
 number: 116
 permalink: EDT116
 has_children: false
 parent: Episodes
 nav_order: 116
 tags:
-    - Cybersecurity
-    - Critical Infrastructure
-    - OT Security
-date: 2022-12-15
+    - EDT111
+    - EmbracingDigital
+
+date: 
 guests:
     - Darren W Pulsipher
     - Steve Orrin
     - Anna Scott
-img: thumbnail.png
-summary: In this episode, Darren talks about the converance of OT and IT cybersecurity with Security expert Steve Orrin and Industrial OT expert Dr. Anna Scott
+
+img: TBD
+summary: "In this episode, Darren talks about the converance of OT and IT cybersecurity with Security expert Steve Orrin and Industrial OT expert Dr. Anna Scott"
 ---
 
 {% include soundcloud.html id="edt116" title="#116 An Argument for a Holistic approach to Critical Infrastructure Security" %}

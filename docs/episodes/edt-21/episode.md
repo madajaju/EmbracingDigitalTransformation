@@ -1,23 +1,25 @@
 ---
 layout: posts
-title: Big Memory Software Defined Memory Controller
+title: "Big Memory Software Defined Memory Controller"
 number: 21
 permalink: EDT21
 has_children: false
 parent: Episodes
 nav_order: 21
 tags:
-     - Big Memory
+    - Big Memory
     - Memory Controller
     - MemVerge
     - Optane
     - PMEM
-date: 
+
+date: 2020-09-14
 guests:
     - Darren W Pulsipher
     - Charels Fan
+
 img: thumbnail.png
-summary: Charles Fan, CEO of MemVerge, talks to Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, about their new technology, Big Memory software-defined memory controllers. The technology utilizes Intel 3D XPoint Optane persistent memory to efficiently bridge the gap between current and future architectures, while providing bigger capacity, lower cost, and persistence.
+summary: "Charles Fan, CEO of MemVerge, talks to Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, about their new technology, Big Memory software-defined memory controllers. The technology utilizes Intel 3D XPoint Optane persistent memory to efficiently bridge the gap between current and future architectures, while providing bigger capacity, lower cost, and persistence."
 ---
 
 {% include soundcloud.html id="edt21" title="#21 Big Memory Software Defined Memory Controller" %}

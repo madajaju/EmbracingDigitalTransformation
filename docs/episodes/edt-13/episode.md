@@ -1,20 +1,22 @@
 ---
 layout: posts
-title: Illogical Obsession with Logic
+title: "Illogical Obsession with Logic"
 number: 13
 permalink: EDT13
 has_children: false
 parent: Episodes
 nav_order: 13
 tags:
-     - Data Management
+    - Data Management
     - Organizational Change
-date: 
+
+date: 2020-08-13
 guests:
     - Darren W Pulsipher
     - Andrew Padilla
+
 img: thumbnail.jpg
-summary: Thought leader Andrew Padilla of Datacequia envisions new developments in data management and collaboration that would allow data to advance as software has in visibility, accessibility, usability, and portability. He outlines how a composable infrastructure would address the concerns of both software engineers and data scientists.
+summary: "Thought leader Andrew Padilla of Datacequia envisions new developments in data management and collaboration that would allow data to advance as software has in visibility, accessibility, usability, and portability. He outlines how a composable infrastructure would address the concerns of both software engineers and data scientists."
 ---
 
 {% include soundcloud.html id="edt13" title="#13 Illogical Obsession with Logic" %}

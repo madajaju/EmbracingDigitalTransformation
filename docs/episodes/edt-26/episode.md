@@ -1,23 +1,25 @@
 ---
 layout: posts
-title: Multi Cloud Data Solutions with Hammerspace
+title: "Multi Cloud Data Solutions with Hammerspace"
 number: 26
 permalink: EDT26
 has_children: false
 parent: Episodes
 nav_order: 26
 tags:
-     - Hammerspace
+    - Hammerspace
     - Data Architecture
     - Multi-Cloud
     - Multi-Hybrid Cloud
     - Data Mesh
-date: 
+
+date: 2020-10-22
 guests:
     - Darren W Pulsipher
     - Johan Ballin
+
 img: thumbnail.png
-summary: Johan Ballin, Director of Technical Marketing at Hammerspace and Darren Pulsipher, Chief Solution Architect, Public Sector, at Intel discuss Hammerspace’s hybrid cloud technology that untethers data from storage infrastructure, providing data portability and performance.
+summary: "Johan Ballin, Director of Technical Marketing at Hammerspace and Darren Pulsipher, Chief Solution Architect, Public Sector, at Intel discuss Hammerspace’s hybrid cloud technology that untethers data from storage infrastructure, providing data portability and performance."
 ---
 
 {% include soundcloud.html id="edt26" title="#26 Multi Cloud Data Solutions with Hammerspace" %}

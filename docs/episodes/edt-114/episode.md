@@ -1,25 +1,27 @@
 ---
 layout: posts
-title: Automating Business Process Management
+title: "Automating Business Process Management"
 number: 114
 permalink: EDT114
 has_children: false
 parent: Episodes
 nav_order: 114
 tags:
-     - EDT114
+    - EDT114
     - EmbracingDigital
     - Business Process Management
     - CapitalBPM
     - BPM
     - Automation
     - Camunda
+
 date: 
 guests:
     - Darren W Pulsipher
     - Max Young
+
 img: TBD
-summary: Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, and Max Young, CEO of Capital BPM, discuss operationalizing business process management with modeling programs.
+summary: "Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, and Max Young, CEO of Capital BPM, discuss operationalizing business process management with modeling programs."
 ---
 
 {% include soundcloud.html id="edt114" title="#114 Automating Business Process Management" %}
