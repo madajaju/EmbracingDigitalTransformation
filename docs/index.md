@@ -21,9 +21,9 @@ Digital Transformation. Join the community by checking out the links below.
 
 <h1>Episodes</h1>
 {% assign sortedPages = site.pages | sort: 'nav_order' | reverse %}
-{% for page in sortedPages %}
+{% for page in sortedPages limit:10 %}
 {% if page.number %}
-<div>
+<div style="display:flex;">
 <p class="episode">
     <img class="thumbnail" src="{{ page.path | remove: page.name }}/{{ page.img }}" width="128" height="128">
     <a href="/EmbracingDigitalTransformation/{{ page.url }}">{{ page.number}} - {{ page.title }}</a><br>
