@@ -97,11 +97,6 @@ The end result is that I was able to use Kafka with Optane DC Persistent Memory 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

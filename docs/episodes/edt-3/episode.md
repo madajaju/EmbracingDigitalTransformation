@@ -74,11 +74,6 @@ Multi-hybrid cloud architectures are giving CIOs the ability to get in front of 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

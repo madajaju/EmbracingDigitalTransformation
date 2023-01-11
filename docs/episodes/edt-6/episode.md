@@ -85,11 +85,6 @@ Ultimately, Intel wants to see organizations be successful during this difficult
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

@@ -86,11 +86,6 @@ There are many options for school districts to construct a viable, secure enviro
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

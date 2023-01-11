@@ -53,11 +53,6 @@ Where does Intel come into play in this environment? We can help provide the und
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

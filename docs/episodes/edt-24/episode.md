@@ -88,11 +88,6 @@ Your organization’s part is to break down the barriers between the groups, dev
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

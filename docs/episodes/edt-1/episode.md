@@ -7,8 +7,11 @@ has_children: false
 parent: Episodes
 nav_order: 1
 tags:
-    - EDT111
-    - EmbracingDigital
+    - Data Architecture
+    - Software Developer
+    - Micro-service
+    - Containers
+    - Virtualization
 
 date: 2020-05-08
 guests:
@@ -119,11 +122,6 @@ end, or whether it’s doing inference or AI on the edge at very low power, Inte
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

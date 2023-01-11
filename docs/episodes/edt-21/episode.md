@@ -68,11 +68,6 @@ In partnership with Intel, MemVerge will launch the first version of their produ
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

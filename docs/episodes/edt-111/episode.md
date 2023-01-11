@@ -24,16 +24,11 @@ summary: ""
 
 ---
 
-Recorded: EDT119 - Moore3's Law is not Dead
+Recorded: EDT120 - An Argument for Global Data Networks
 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

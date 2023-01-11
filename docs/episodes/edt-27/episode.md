@@ -80,11 +80,6 @@ Intel just had a big announcement this month and we are really blowing the doors
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

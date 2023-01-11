@@ -146,11 +146,6 @@ Robotic Process Automation tools are another set of tools that can be used to he
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

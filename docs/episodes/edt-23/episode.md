@@ -58,11 +58,6 @@ The goal of all of this is, of course, to gain valuable business insight for you
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

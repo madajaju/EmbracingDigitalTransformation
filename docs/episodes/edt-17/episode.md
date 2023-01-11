@@ -84,11 +84,6 @@ For more detailed information, check out the link in the podcast to the document
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

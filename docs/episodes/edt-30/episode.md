@@ -65,11 +65,6 @@ Intel made oneAPI generally available at the beginning of Nov, 2020, and it was 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

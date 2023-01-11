@@ -93,11 +93,6 @@ First, develop a data strategy. Get organized and figure out where all of your d
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

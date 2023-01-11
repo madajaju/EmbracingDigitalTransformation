@@ -81,11 +81,6 @@ Organizations are facing a lot of new changes to become data centric, not only i
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

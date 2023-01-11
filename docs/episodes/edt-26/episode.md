@@ -77,11 +77,6 @@ If you would like to try out this technology, go to hammerspace.com and get star
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

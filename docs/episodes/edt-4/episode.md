@@ -138,11 +138,6 @@ It’s common to feel stuck in one phase and overwhelmed at the amount of change
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

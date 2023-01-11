@@ -13,7 +13,7 @@ tags:
 date: 2020-08-04
 guests:
     - Darren W Pulsipher
-    - Seven Orrin
+    - Steve Orrin
 
 img: thumbnail.png
 summary: "With many employees now working from home, how do you make sure they are working securely yet still give them the flexibility they need to get their jobs done? In this episode, Darren and special Guest Steve Orrin, CTO of Intel Federal, discuss how to leverage Intel technology to effectively help secure the teleworker.  "
@@ -62,11 +62,6 @@ One best practice is to implement zero trust policies. This reduces reliance on 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

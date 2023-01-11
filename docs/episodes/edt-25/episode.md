@@ -75,11 +75,6 @@ It’s exciting that a data scientist can take raw material and turn it into ins
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

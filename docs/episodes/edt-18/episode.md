@@ -54,11 +54,6 @@ We are seeing a major shift today toward organizations with a data-centric infra
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

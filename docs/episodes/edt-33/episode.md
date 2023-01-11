@@ -77,11 +77,6 @@ What is the main lesson we should learn from this? Organizations should take own
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

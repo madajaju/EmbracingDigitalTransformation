@@ -76,11 +76,6 @@ It is common for different parts of your organization to be in different phases.
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

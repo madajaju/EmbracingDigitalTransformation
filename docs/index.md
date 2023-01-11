@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Overview
@@ -21,7 +20,7 @@ Digital Transformation. Join the community by checking out the links below.
 
 <h1>Episodes</h1>
 {% assign sortedPages = site.pages | sort: 'nav_order' | reverse %}
-{% for page in sortedPages limit: 10 %}
+{% for page in sortedPages %}
 {% if page.number %}
 <div style="display:flex;">
 <p class="episode">

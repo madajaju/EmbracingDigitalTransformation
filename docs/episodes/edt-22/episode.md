@@ -76,11 +76,6 @@ The Hybrid Multi-Cloud ecosystem is still fairly new and still requires some hea
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

@@ -58,11 +58,6 @@ This is just the tip of the iceberg on what is a fundamental change in industry 
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

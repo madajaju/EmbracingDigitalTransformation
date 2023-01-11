@@ -100,11 +100,6 @@ Overall, Aerospike offers security, high availability, speed, low latency, scala
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

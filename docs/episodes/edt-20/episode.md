@@ -61,11 +61,6 @@ VAST is a young company, but they have multiple installs across government agenc
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

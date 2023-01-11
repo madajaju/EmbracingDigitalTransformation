@@ -73,11 +73,6 @@ There is no question that we have to think differently now about security issues
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

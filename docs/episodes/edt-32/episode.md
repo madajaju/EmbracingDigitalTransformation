@@ -64,11 +64,6 @@ On the next podcast, Darren, Sean, and Neil will continue the conversation about
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

@@ -66,11 +66,6 @@ This is the first of six episodes that talk about the data-centric organization.
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>

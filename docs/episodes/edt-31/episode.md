@@ -57,11 +57,6 @@ It’s impossible for any off-the-shelf-software to meet the individual needs of
 <details>
 <summary> Podcast Transcript </summary>
 
-
-</details>
-
-<details>
-<summary> Published Assets </summary>
-
+<p></p>
 
 </details>
