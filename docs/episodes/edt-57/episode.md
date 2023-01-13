@@ -15,7 +15,7 @@ date: 2021-07-15
 guests:
     - Darren W Pulsipher
     - Dave Shrestha
-    - Kevin Bleckman
+    - Kevin Bleckmann
 
 img: thumbnail.png
 summary: "In part two of two, Darren Pulsipher, Chief Solution Architect, and Intel Cloud Solution Architects Dave Shrestha and Kevin Bleckman talk about the benefits and services of a cloud broker organization."

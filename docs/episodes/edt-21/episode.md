@@ -16,7 +16,7 @@ tags:
 date: 2020-09-14
 guests:
     - Darren W Pulsipher
-    - Charels Fan
+    - Charles Fan
 
 img: thumbnail.png
 summary: "Charles Fan, CEO of MemVerge, talks to Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, about their new technology, Big Memory software-defined memory controllers. The technology utilizes Intel 3D XPoint Optane persistent memory to efficiently bridge the gap between current and future architectures, while providing bigger capacity, lower cost, and persistence."

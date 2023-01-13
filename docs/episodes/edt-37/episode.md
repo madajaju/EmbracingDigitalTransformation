@@ -17,7 +17,7 @@ date: 2021-02-10
 guests:
     - Darren W Pulsipher
 
-img: thumbnail.png
+img: thumbnail.jpg
 summary: "Darren Pulsipher, Chief Solution Architect, Public Sector, at Intel reflects on the disruption, changes, and adjustments the COVID-19 pandemic brought in 2020."
 ---
 

@@ -17,7 +17,7 @@ guests:
     - Darren W Pulsipher
     - Randy Hayes
 
-img: TBD
+img: thumbnail.jpg
 summary: "Randy Hayes from VAST Data and Darren Pulsipher, Chief Solutions Architect, Public Sector, Intel, discuss VAST Data’s innovative storage architecture that eliminates the need for tiers using NVMe over Fabrics, QLC Flash, and 3D XPoint Optane"
 ---
 

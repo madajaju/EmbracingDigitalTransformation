@@ -14,7 +14,7 @@ tags:
 date: 2021-07-08
 guests:
     - Darren W Pulsipher
-    - Kevin Bleckman
+    - Kevin Bleckmann
     - Dave Shrestha
 
 img: thumbnail.png

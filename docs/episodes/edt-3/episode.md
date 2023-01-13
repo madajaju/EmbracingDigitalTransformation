@@ -13,7 +13,7 @@ date: 2020-06-23
 guests:
     - Darren W Pulsipher
 
-img: TBD
+img: thumbnail.png
 summary: "A multi-hybrid cloud architecture allows organizations to take advantage of the benefits of both private and public clouds, optimizing resources and cost efficiency. This model has five main advantages: agility, flexibility, predictive performance, security and compliance, and efficiency."
 ---
 
