@@ -1,6 +1,6 @@
 ---
 layout: tagTopic
-title: Vast Data
+title: VAST Data
 parent: Tags
 ---
 
