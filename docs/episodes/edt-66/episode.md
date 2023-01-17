@@ -2,7 +2,7 @@
 layout: posts
 title: "Managing Complexity in the Cloud"
 number: 66
-permalink: EDT66
+permalink: episode-EDT66
 has_children: false
 parent: Episodes
 nav_order: 66

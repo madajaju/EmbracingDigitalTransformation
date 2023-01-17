@@ -2,7 +2,7 @@
 layout: posts
 title: "Roaring 20's a Look Forward to 2021"
 number: 38
-permalink: EDT38
+permalink: episode-EDT38
 has_children: false
 parent: Episodes
 nav_order: 38

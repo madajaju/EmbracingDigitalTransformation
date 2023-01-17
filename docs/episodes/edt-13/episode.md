@@ -2,7 +2,7 @@
 layout: posts
 title: "Illogical Obsession with Logic"
 number: 13
-permalink: EDT13
+permalink: episode-EDT13
 has_children: false
 parent: Episodes
 nav_order: 13

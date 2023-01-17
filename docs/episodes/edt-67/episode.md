@@ -2,7 +2,7 @@
 layout: posts
 title: "5G Past, Present, and Future"
 number: 67
-permalink: EDT67
+permalink: episode-EDT67
 has_children: false
 parent: Episodes
 nav_order: 67

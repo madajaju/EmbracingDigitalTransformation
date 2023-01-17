@@ -2,7 +2,7 @@
 layout: posts
 title: "An Argument for Multi-Hybrid Cloud"
 number: 22
-permalink: EDT22
+permalink: episode-EDT22
 has_children: false
 parent: Episodes
 nav_order: 22

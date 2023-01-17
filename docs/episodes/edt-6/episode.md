@@ -2,7 +2,7 @@
 layout: posts
 title: "Managing Telework at Capacity"
 number: 6
-permalink: EDT6
+permalink: episode-EDT6
 has_children: false
 parent: Episodes
 nav_order: 6

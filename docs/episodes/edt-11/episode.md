@@ -2,7 +2,7 @@
 layout: posts
 title: "Distance Teaching and Learning"
 number: 11
-permalink: EDT11
+permalink: episode-EDT11
 has_children: false
 parent: Episodes
 nav_order: 11

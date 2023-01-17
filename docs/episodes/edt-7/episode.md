@@ -2,7 +2,7 @@
 layout: posts
 title: "Securing the Teleworker"
 number: 7
-permalink: EDT7
+permalink: episode-EDT7
 has_children: false
 parent: Episodes
 nav_order: 7

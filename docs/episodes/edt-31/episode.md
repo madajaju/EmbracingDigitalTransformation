@@ -2,7 +2,7 @@
 layout: posts
 title: "Improving Employee Value with Catalytic"
 number: 31
-permalink: EDT31
+permalink: episode-EDT31
 has_children: false
 parent: Episodes
 nav_order: 31

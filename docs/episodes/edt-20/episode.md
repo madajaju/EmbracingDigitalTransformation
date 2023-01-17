@@ -2,7 +2,7 @@
 layout: posts
 title: "Destroying the Complexity of Storage Tiers"
 number: 20
-permalink: EDT20
+permalink: episode-EDT20
 has_children: false
 parent: Episodes
 nav_order: 20

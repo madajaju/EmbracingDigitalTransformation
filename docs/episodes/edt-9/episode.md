@@ -2,7 +2,7 @@
 layout: posts
 title: "Telework Securing Your Home Office"
 number: 9
-permalink: EDT9
+permalink: episode-EDT9
 has_children: false
 parent: Episodes
 nav_order: 9

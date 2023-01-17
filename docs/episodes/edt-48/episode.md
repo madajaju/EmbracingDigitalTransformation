@@ -2,7 +2,7 @@
 layout: posts
 title: "VAST Data Revisited"
 number: 48
-permalink: EDT48
+permalink: episode-EDT48
 has_children: false
 parent: Episodes
 nav_order: 48

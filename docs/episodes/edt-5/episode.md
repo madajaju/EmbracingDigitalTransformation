@@ -2,7 +2,7 @@
 layout: posts
 title: "Infrastructure Maturity Model"
 number: 5
-permalink: EDT5
+permalink: episode-EDT5
 has_children: false
 parent: Episodes
 nav_order: 5

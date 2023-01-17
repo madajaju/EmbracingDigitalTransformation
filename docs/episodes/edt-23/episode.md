@@ -2,7 +2,7 @@
 layout: posts
 title: "Insight Creation in Data-Centric Organizations"
 number: 23
-permalink: EDT23
+permalink: episode-EDT23
 has_children: false
 parent: Episodes
 nav_order: 23

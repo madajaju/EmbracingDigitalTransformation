@@ -2,7 +2,7 @@
 layout: posts
 title: "Embracing Workspace Evolution"
 number: 34
-permalink: EDT34
+permalink: episode-EDT34
 has_children: false
 parent: Episodes
 nav_order: 34

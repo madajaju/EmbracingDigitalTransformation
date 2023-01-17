@@ -2,7 +2,7 @@
 layout: posts
 title: "Not All Cores are Equal"
 number: 45
-permalink: EDT45
+permalink: episode-EDT45
 has_children: false
 parent: Episodes
 nav_order: 45

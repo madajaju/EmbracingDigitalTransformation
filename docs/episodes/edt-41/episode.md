@@ -2,7 +2,7 @@
 layout: posts
 title: "The Black Art of DevOps"
 number: 41
-permalink: EDT41
+permalink: episode-EDT41
 has_children: false
 parent: Episodes
 nav_order: 41

@@ -1,6 +1,6 @@
 ---
 layout: tagTopic
-title: EDT114
+title: WiFi6
 parent: Tags
 ---
 

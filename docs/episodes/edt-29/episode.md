@@ -2,7 +2,7 @@
 layout: posts
 title: "Next-Generation Hyperscale Database - Aerospike"
 number: 29
-permalink: EDT29
+permalink: episode-EDT29
 has_children: false
 parent: Episodes
 nav_order: 29

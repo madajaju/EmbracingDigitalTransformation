@@ -2,14 +2,12 @@
 layout: posts
 title: "2022 Year In Review"
 number: 117
-permalink: EDT117
+permalink: episode-EDT117
 has_children: false
 parent: Episodes
 nav_order: 117
 tags:
     - 2022
-    - EDT117
-    - EmbracingDigital
     - Edge Computing
     - AI
     - Hybrid Workspace

@@ -2,25 +2,23 @@
 layout: posts
 title: "Operationalizing Business Process Management"
 number: 113
-permalink: EDT113
+permalink: episode-EDT113
 has_children: false
 parent: Episodes
 nav_order: 113
 tags:
-    - EDT113
-    - EmbracingDigital
     - Business Process Management
     - Automation
     - Camunda
     - CapitalBPM
     - BPM
 
-date: 
+date: 2022-11-18
 guests:
     - Darren W Pulsipher
     - Max Young
 
-img: TBD
+img: thumbnail.png
 summary: "In this episode, Darren discusses business process management and automation with Max Young, CEO of Capital BPM"
 ---
 
@@ -29,8 +27,6 @@ summary: "In this episode, Darren discusses business process management and auto
 {% include youtube.html id="bIJRyJxSGvE" %}
 
 ---
-
-In this episode, Darren discusses business process management and automation with Max Young, CEO of Capital BPM.
 
 Max calls himself a “failed academic” because he left his Ph.D. in mathematics, specializing in topology, to study computer science. He earned an undergraduate and a master’s degree, specializing in AI. He then worked in business process management (BPM), starting at Lombardi, which was sold to IBM, and a few other vendors in the BPM space. Ten years ago, he took a plunge with friends and founded Capital BPM.
 

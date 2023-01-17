@@ -2,7 +2,7 @@
 layout: posts
 title: "Follow the Bit"
 number: 2
-permalink: EDT2
+permalink: episode-EDT2
 has_children: false
 parent: Episodes
 nav_order: 2

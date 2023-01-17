@@ -2,7 +2,7 @@
 layout: posts
 title: "Understanding Edge to Data Center Problems"
 number: 58
-permalink: EDT58
+permalink: episode-EDT58
 has_children: false
 parent: Episodes
 nav_order: 58

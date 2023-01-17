@@ -2,7 +2,7 @@
 layout: posts
 title: "Practical Optane Persistent Memory Use Cases"
 number: 51
-permalink: EDT51
+permalink: episode-EDT51
 has_children: false
 parent: Episodes
 nav_order: 51

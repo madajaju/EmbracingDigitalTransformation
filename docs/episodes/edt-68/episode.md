@@ -2,7 +2,7 @@
 layout: posts
 title: "5G in Defence"
 number: 68
-permalink: EDT68
+permalink: episode-EDT68
 has_children: false
 parent: Episodes
 nav_order: 68

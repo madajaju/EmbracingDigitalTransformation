@@ -2,7 +2,7 @@
 layout: posts
 title: "Six Pillars of Cybersecurity"
 number: 36
-permalink: EDT36
+permalink: episode-EDT36
 has_children: false
 parent: Episodes
 nav_order: 36

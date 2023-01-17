@@ -2,7 +2,7 @@
 layout: posts
 title: "Inspiring IT Cultural Change"
 number: 63
-permalink: EDT63
+permalink: episode-EDT63
 has_children: false
 parent: Episodes
 nav_order: 63

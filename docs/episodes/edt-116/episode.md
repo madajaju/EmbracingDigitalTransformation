@@ -2,21 +2,24 @@
 layout: posts
 title: "An Argument for a Holistic approach to Critical Infrastructure Security"
 number: 116
-permalink: EDT116
+permalink: episode-EDT116
 has_children: false
 parent: Episodes
 nav_order: 116
 tags:
-    - EDT111
-    - EmbracingDigital
+    - Critical Infrastructure
+    - IoT
+    - IT/OT Convergence
+    - OT Security
+    - Cybersecurity
 
-date: 
+date: 2022-12-15
 guests:
     - Darren W Pulsipher
     - Steve Orrin
     - Anna Scott
 
-img: TBD
+img: thumbnail.png
 summary: "In this episode, Darren talks about the converance of OT and IT cybersecurity with Security expert Steve Orrin and Industrial OT expert Dr. Anna Scott"
 ---
 
@@ -40,6 +43,7 @@ IT systems are traditionally updated quickly or continuously based on security p
 For example, in the oil and gas industry, refineries operate continuously for four to five years, have a one to three-week downtime for upgrades, and then operate again for four to five years. These operating models are not conducive to the traditional continuous security patching that IT organizations typically use. However, Steve elaborates on many other cybersecurity tools that should be leveraged when cybersecurity patches cannot be applied to existing devices due to their critical controlling infrastructure.
 
 ## Best Practice Risk Assessment
+
 the primary cybersecurity best practice is risk assessment. Even though risk remediation may be different, the risk assessment process can be leveraged equally across OT and its environments. Steve argues that the first step of the risk assessment process is getting a complete inventory of hardware, firmware, and software assets in your OT environment. This first step is critical in evaluating your cyber threat position and assessing the risk your organization is willing to take. The next step is to evaluate CVEs against your known inventory. 
 
 It is critical to recognize that this is a continuous process and not to be done just once or periodically. Some OT professionals have argued that their OT environments are static and do not require ongoing risk assessment evaluation. However, Steve points out that even though OT environments may be fixed, the threat environment constantly changes, and business factors can change the organization’s risk position. Therefore continuous risk assessment must be done to protect critical infrastructure from bad cybersecurity actors.
@@ -55,6 +59,7 @@ So what do you do when you have a critical infrastructure that has been compromi
 The key here is to isolate the infection as quickly as possible to minimize the impact on the critical infrastructure. I am decreasing the effect on the operating reliability of the necessary infrastructure. The goal is to reduce the impact and protect the safety of people and the infrastructure involved.
 
 ## Find out more 
+
 Continue to look for more podcasts on OT cybersecurity. Additionally, a whitepaper describes the challenges of converging OT and IT cybersecurity environments.
 
 

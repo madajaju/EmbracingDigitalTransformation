@@ -1,6 +1,6 @@
 ---
 layout: tagTopic
-title: Zero Trust
+title: Zero-Trust
 parent: Tags
 ---
 

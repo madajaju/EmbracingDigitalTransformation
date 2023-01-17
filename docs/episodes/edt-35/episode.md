@@ -2,7 +2,7 @@
 layout: posts
 title: "Navigating Disruptive Change"
 number: 35
-permalink: EDT35
+permalink: episode-EDT35
 has_children: false
 parent: Episodes
 nav_order: 35

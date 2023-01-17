@@ -1,6 +1,6 @@
 ---
 layout: tagTopic
-title: CyberHygiene
+title: Shared Responsibility
 parent: Tags
 ---
 

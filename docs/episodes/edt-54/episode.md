@@ -2,7 +2,7 @@
 layout: posts
 title: "People & Process in Digital Transformation"
 number: 54
-permalink: EDT54
+permalink: episode-EDT54
 has_children: false
 parent: Episodes
 nav_order: 54

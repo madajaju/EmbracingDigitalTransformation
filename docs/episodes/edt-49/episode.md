@@ -2,7 +2,7 @@
 layout: posts
 title: "Remote Work Before, During and After the Pandemic"
 number: 49
-permalink: EDT49
+permalink: episode-EDT49
 has_children: false
 parent: Episodes
 nav_order: 49

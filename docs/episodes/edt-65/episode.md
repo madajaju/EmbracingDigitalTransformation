@@ -2,7 +2,7 @@
 layout: posts
 title: "Accelerating Cloud Adoption while Decreasing Complexity and Cost"
 number: 65
-permalink: EDT65
+permalink: episode-EDT65
 has_children: false
 parent: Episodes
 nav_order: 65

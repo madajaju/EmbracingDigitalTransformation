@@ -2,7 +2,7 @@
 layout: posts
 title: "Follow and Secure the Bit Edge to Cloud"
 number: 64
-permalink: EDT64
+permalink: episode-EDT64
 has_children: false
 parent: Episodes
 nav_order: 64

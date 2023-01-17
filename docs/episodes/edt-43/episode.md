@@ -2,7 +2,7 @@
 layout: posts
 title: "The Role of the CIO in Cloud Adoption"
 number: 43
-permalink: EDT43
+permalink: episode-EDT43
 has_children: false
 parent: Episodes
 nav_order: 43

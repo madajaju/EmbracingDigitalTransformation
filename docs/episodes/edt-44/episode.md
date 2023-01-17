@@ -2,7 +2,7 @@
 layout: posts
 title: "Cloud in the Digital Age"
 number: 44
-permalink: EDT44
+permalink: episode-EDT44
 has_children: false
 parent: Episodes
 nav_order: 44

@@ -2,7 +2,7 @@
 layout: posts
 title: "Application Portability with OneAPI"
 number: 30
-permalink: EDT30
+permalink: episode-EDT30
 has_children: false
 parent: Episodes
 nav_order: 30

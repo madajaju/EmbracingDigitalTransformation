@@ -2,7 +2,7 @@
 layout: posts
 title: "Cloud Broker Organization Part 2"
 number: 57
-permalink: EDT57
+permalink: episode-EDT57
 has_children: false
 parent: Episodes
 nav_order: 57

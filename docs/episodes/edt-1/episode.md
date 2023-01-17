@@ -2,7 +2,7 @@
 layout: posts
 title: "History of Data Centric Architecture"
 number: 1
-permalink: EDT1
+permalink: episode-EDT1
 has_children: false
 parent: Episodes
 nav_order: 1

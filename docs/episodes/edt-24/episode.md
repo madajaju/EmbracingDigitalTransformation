@@ -2,7 +2,7 @@
 layout: posts
 title: "Digital Strategy and Data Architecture"
 number: 24
-permalink: EDT24
+permalink: episode-EDT24
 has_children: false
 parent: Episodes
 nav_order: 24

@@ -2,7 +2,7 @@
 layout: posts
 title: "Information Management Maturity Model"
 number: 4
-permalink: EDT4
+permalink: episode-EDT4
 has_children: false
 parent: Episodes
 nav_order: 4

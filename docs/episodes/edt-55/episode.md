@@ -2,7 +2,7 @@
 layout: posts
 title: "Communication During Transformation"
 number: 55
-permalink: EDT55
+permalink: episode-EDT55
 has_children: false
 parent: Episodes
 nav_order: 55

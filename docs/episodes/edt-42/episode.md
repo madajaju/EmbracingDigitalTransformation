@@ -2,7 +2,7 @@
 layout: posts
 title: "Securing the DevOps Pipeline = SecDevOps"
 number: 42
-permalink: EDT42
+permalink: episode-EDT42
 has_children: false
 parent: Episodes
 nav_order: 42

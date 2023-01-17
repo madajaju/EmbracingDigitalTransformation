@@ -2,7 +2,7 @@
 layout: posts
 title: "The AWS Outage of Nov 2020"
 number: 33
-permalink: EDT33
+permalink: episode-EDT33
 has_children: false
 parent: Episodes
 nav_order: 33

@@ -2,7 +2,7 @@
 layout: posts
 title: "Using Data as a Strategic Asset"
 number: 19
-permalink: EDT19
+permalink: episode-EDT19
 has_children: false
 parent: Episodes
 nav_order: 19

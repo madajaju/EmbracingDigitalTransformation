@@ -2,20 +2,22 @@
 layout: posts
 title: "Securing the Supply Chain"
 number: 110
-permalink: EDT110
+permalink: episode-EDT110
 has_children: false
 parent: Episodes
 nav_order: 110
 tags:
-    - EDT110
-    - EmbracingDigital
+    - Secure Supply Chain
+    - Cybersecurity
+    - Supply Chain
+    - CHIPS Act
 
-date: 
+date: 2022-10-20
 guests:
     - Darren W Pulsipher
     - Thomas Horlander
 
-img: TBD
+img: thumbnail.png
 summary: "In this episode, Darren talks with Lieutenant General Thomas Horlander, who recently joined the Intel Public Sector Team, about the microelectronics supply chain and national security. "
 ---
 

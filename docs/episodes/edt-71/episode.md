@@ -2,7 +2,7 @@
 layout: posts
 title: "Modern Data Governance"
 number: 71
-permalink: EDT71
+permalink: episode-EDT71
 has_children: false
 parent: Episodes
 nav_order: 71

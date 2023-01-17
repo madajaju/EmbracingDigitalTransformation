@@ -2,7 +2,7 @@
 layout: posts
 title: "Securing the Data Center Through the Edge"
 number: 69
-permalink: EDT69
+permalink: episode-EDT69
 has_children: false
 parent: Episodes
 nav_order: 69

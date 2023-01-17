@@ -2,7 +2,7 @@
 layout: posts
 title: "Understanding Employee Burnout"
 number: 50
-permalink: EDT50
+permalink: episode-EDT50
 has_children: false
 parent: Episodes
 nav_order: 50

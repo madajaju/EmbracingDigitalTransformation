@@ -2,7 +2,7 @@
 layout: posts
 title: "Teleworker Sizing Your VDI Solution"
 number: 10
-permalink: EDT10
+permalink: episode-EDT10
 has_children: false
 parent: Episodes
 nav_order: 10

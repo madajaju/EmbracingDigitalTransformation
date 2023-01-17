@@ -2,7 +2,7 @@
 layout: posts
 title: "Data Collection and Preparation"
 number: 18
-permalink: EDT18
+permalink: episode-EDT18
 has_children: false
 parent: Episodes
 nav_order: 18

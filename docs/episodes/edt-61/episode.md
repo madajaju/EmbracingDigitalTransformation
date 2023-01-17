@@ -2,7 +2,7 @@
 layout: posts
 title: "Data Breaches & Secure Supply Chain"
 number: 61
-permalink: EDT61
+permalink: episode-EDT61
 has_children: false
 parent: Episodes
 nav_order: 61

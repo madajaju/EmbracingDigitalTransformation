@@ -2,7 +2,7 @@
 layout: posts
 title: "Watercooler Talk in a Remote Workforce"
 number: 39
-permalink: EDT39
+permalink: episode-EDT39
 has_children: false
 parent: Episodes
 nav_order: 39

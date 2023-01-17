@@ -2,7 +2,7 @@
 layout: posts
 title: "Multi Cloud Data Solutions with Hammerspace"
 number: 26
-permalink: EDT26
+permalink: episode-EDT26
 has_children: false
 parent: Episodes
 nav_order: 26

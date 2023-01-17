@@ -2,7 +2,7 @@
 layout: posts
 title: "Hardware Security: Imperative for Transforming Data"
 number: 27
-permalink: EDT27
+permalink: episode-EDT27
 has_children: false
 parent: Episodes
 nav_order: 27

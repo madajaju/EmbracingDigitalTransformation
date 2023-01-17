@@ -2,7 +2,7 @@
 layout: posts
 title: "Demystifying 5G, Edge and AI"
 number: 62
-permalink: EDT62
+permalink: episode-EDT62
 has_children: false
 parent: Episodes
 nav_order: 62

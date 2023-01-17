@@ -2,7 +2,7 @@
 layout: posts
 title: "Cloud Broker Organizations"
 number: 56
-permalink: EDT56
+permalink: episode-EDT56
 has_children: false
 parent: Episodes
 nav_order: 56

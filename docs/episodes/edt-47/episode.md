@@ -2,7 +2,7 @@
 layout: posts
 title: "Looking Forward to 2021"
 number: 47
-permalink: EDT47
+permalink: episode-EDT47
 has_children: false
 parent: Episodes
 nav_order: 47

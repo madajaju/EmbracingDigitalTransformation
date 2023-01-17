@@ -2,7 +2,7 @@
 layout: posts
 title: "Kickstarting Your Organizational Transformation to Become Data-Centric"
 number: 14
-permalink: EDT14
+permalink: episode-EDT14
 has_children: false
 parent: Episodes
 nav_order: 14

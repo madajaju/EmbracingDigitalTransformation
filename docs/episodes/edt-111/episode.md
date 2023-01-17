@@ -2,7 +2,7 @@
 layout: posts
 title: "Put the Title Right Here"
 number: 111
-permalink: EDT111
+permalink: episode-EDT111
 has_children: false
 parent: Episodes
 nav_order: 111

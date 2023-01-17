@@ -2,7 +2,7 @@
 layout: posts
 title: "Kick-starting Organizational Transformation"
 number: 15
-permalink: EDT15
+permalink: episode-EDT15
 has_children: false
 parent: Episodes
 nav_order: 15

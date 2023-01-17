@@ -2,7 +2,7 @@
 layout: posts
 title: "Benefits of Multi-Cloud Architecture"
 number: 3
-permalink: EDT3
+permalink: episode-EDT3
 has_children: false
 parent: Episodes
 nav_order: 3

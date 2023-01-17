@@ -2,7 +2,7 @@
 layout: posts
 title: "Operationalizing Data Pipelines"
 number: 25
-permalink: EDT25
+permalink: episode-EDT25
 has_children: false
 parent: Episodes
 nav_order: 25

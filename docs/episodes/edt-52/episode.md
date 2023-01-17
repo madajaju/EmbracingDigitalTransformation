@@ -2,7 +2,7 @@
 layout: posts
 title: "Telemetry in the Cloud"
 number: 52
-permalink: EDT52
+permalink: episode-EDT52
 has_children: false
 parent: Episodes
 nav_order: 52

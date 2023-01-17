@@ -2,7 +2,7 @@
 layout: posts
 title: "2020 in Review"
 number: 37
-permalink: EDT37
+permalink: episode-EDT37
 has_children: false
 parent: Episodes
 nav_order: 37

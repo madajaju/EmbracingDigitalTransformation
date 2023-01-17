@@ -2,7 +2,7 @@
 layout: posts
 title: "DevOps with Speed While Reducing Risk"
 number: 53
-permalink: EDT53
+permalink: episode-EDT53
 has_children: false
 parent: Episodes
 nav_order: 53

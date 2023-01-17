@@ -2,7 +2,7 @@
 layout: posts
 title: "Big Memory Software Defined Memory Controller"
 number: 21
-permalink: EDT21
+permalink: episode-EDT21
 has_children: false
 parent: Episodes
 nav_order: 21

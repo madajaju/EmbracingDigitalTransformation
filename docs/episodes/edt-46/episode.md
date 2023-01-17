@@ -2,7 +2,7 @@
 layout: posts
 title: "Securing your DevOps Pipeline"
 number: 46
-permalink: EDT46
+permalink: episode-EDT46
 has_children: false
 parent: Episodes
 nav_order: 46

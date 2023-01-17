@@ -2,7 +2,7 @@
 layout: posts
 title: "Collaborative Medical Research with Confidential Computing"
 number: 40
-permalink: EDT40
+permalink: episode-EDT40
 has_children: false
 parent: Episodes
 nav_order: 40

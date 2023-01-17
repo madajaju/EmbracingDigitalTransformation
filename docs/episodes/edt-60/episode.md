@@ -2,7 +2,7 @@
 layout: posts
 title: "Managing Risk in the Face of Ransomware"
 number: 60
-permalink: EDT60
+permalink: episode-EDT60
 has_children: false
 parent: Episodes
 nav_order: 60

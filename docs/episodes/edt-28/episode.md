@@ -2,7 +2,7 @@
 layout: posts
 title: "Legacy Integration with Cloud and RPA"
 number: 28
-permalink: EDT28
+permalink: episode-EDT28
 has_children: false
 parent: Episodes
 nav_order: 28

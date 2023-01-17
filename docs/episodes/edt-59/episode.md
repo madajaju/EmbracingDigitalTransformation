@@ -2,7 +2,7 @@
 layout: posts
 title: "Evolution of Data Privacy"
 number: 59
-permalink: EDT59
+permalink: episode-EDT59
 has_children: false
 parent: Episodes
 nav_order: 59
