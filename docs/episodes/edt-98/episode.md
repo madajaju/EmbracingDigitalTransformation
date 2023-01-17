@@ -18,7 +18,7 @@ guests:
     - Darren W Pulsipher
     - Chetan Venkatesh
 
-img: thumbnail.jpg
+img: thumbnail.jpeg
 summary: "In this episode, Darren reminisces with Chetan Venkatesh, CEO of MacroMeta. Venkatesh has a long history of data management from the beginning days of Grid Computing and has started MacroMeta to tackle data management across the globally dispersed edge, data centers, and clouds. "
 ---
 

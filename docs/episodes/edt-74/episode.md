@@ -15,7 +15,7 @@ guests:
     - Darren W Pulsipher
     - Stephanie Sabatini
 
-img: thumbnail.jpg
+img: thumbnail.jpeg
 summary: "Darren Pulsipher, Chief Solution Architect, Intel, talks to Stephanie Sabatini, Sr. Director, Professional Services, Hitachi Systems Security, about preventing and preparing for ransomware attacks and what to do if your organization is attacked."
 ---
 

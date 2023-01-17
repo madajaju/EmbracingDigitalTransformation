@@ -14,12 +14,12 @@ tags:
     - CXL
     - CEO
 
-date: 
+date: 2022-06-02
 guests:
     - Darren W Pulsipher
     - Charles Fan
 
-img: TBD
+img: thumbnail.jpg
 summary: "Darren Pulsipher, Chief Solutions Architect, Intel, talks with Charles Fan, CEO of MemVerge, about how the CXL revolution and MemVerge’s software are the future of big memory."
 ---
 

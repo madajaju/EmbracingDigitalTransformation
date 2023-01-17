@@ -7,8 +7,6 @@ has_children: false
 parent: Episodes
 nav_order: 14
 tags:
-    - EDT111
-    - EmbracingDigital
 
 date: 2020-08-20
 guests:

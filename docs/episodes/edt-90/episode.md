@@ -16,7 +16,7 @@ guests:
     - Darren W Pulsipher
     - Glenn Kurowski
 
-img: thumbnail.png
+img: thumbnail.jpg
 summary: "Darren Pulsipher, Chief Solutions Architect, Intel, discusses the barriers to adopting new technologies in the public sector and what is coming in the future with Glenn Kurowski, CTO of CACI."
 ---
 

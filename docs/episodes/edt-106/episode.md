@@ -17,7 +17,7 @@ guests:
     - Darren W Pulsipher
     - Greg Steck
 
-img: thumbnail.png
+img: thumbnail.jpg
 summary: "Intel’s Darren Pulsipher, Chief Solutions Architect, Public Sector and Greg Steck, Senior Director of Industry Solutions, Katana Graph, talk about the benefits of Katana’s graph intelligence platform."
 ---
 
