@@ -8,6 +8,8 @@ guests:
     - {{ page.guests | join: ',\n\t-' }}
 ---
 
+{% include analytics.html %}
+
 <style>
 .thumbnail {
     float: right;
