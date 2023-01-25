@@ -7,6 +7,10 @@ has_children: false
 parent: Episodes
 nav_order: 119
 tags:
+    - MooresLaw
+    - Technology
+    - Innovation
+    - Leadership
 
 date: 2022-01-19
 guests:

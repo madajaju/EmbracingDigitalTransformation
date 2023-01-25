@@ -22,39 +22,7 @@ summary: ""
 
 ---
 
-
-In this episode Darren talks about what's in store for 2023 where he reviews his predictions on the critical elements of digital transformation in the year ahead.
-
-The year 2023 appears to be a year of uncertainty as we begin this year with continued issues in supply chain, cybersecurity, economic slowdown, and a reengineering of globalization. even with all this uncertainty there appears to be 6 technological trends that will continue to drive organizations digital transformation. Namely cyber security automation edge computing cloud computing web 3.0 and data management.
-
-## Cybersecurity
-
-In 2022 there was a major increase in cyber security threats and infiltrations which will continue in 2023. Specifically critical infrastructure appears to be in the crosshairs of many Nation States and cyber bad actors. There is a high likelihood of continued ransomware attacks specifically on critical infrastructure in 2023. However not all is lost has improved technology in cyber threat detection remediation and prevention will continue to give cyber professionals tools needed to thwart cyber attacks. Adoption of zero trust architecture and principles should continue to increase as cyber tools and technologies begin to leverage zero trust designs. Additionally hardware cybersecurity technology will be more readily available in 2023 including hardware encryption, key management, confidential computing, and hardware route of trust.
-
-## Automation
-
-Automation will be essential in 2023 as organizations continue to have a hard time finding knowledge workers. Those that quickly adopt automation will find improved performance, efficiency, and reliability in they're back office and front office processes. A combination of no code and low code technologies will be adopted in conjunction with a new breed of artificial intelligence. The best example of AI moving forward is chatGPT; which is already improving productivity of solution architects, developers and high school students writing senior papers. Organizations will look at reengineering processes geared towards automation and optimization shedding off historically bureaucratic processes. The proliferation of nor morphic computing and hardware enabled AI will make AI more readily available to organizations through cloud service providers.
-
-## Edge Computing
-
-Edge computing will continue to grow as private 5G networks begin to be adopted and a new generation of edge sensors begin to be deployed. With more data being generated at the edge the edge needs to become more capable to perform inference and data analytics at the edge. Additionally the edge increases the cybersecurity attacks surface leaving organizations more vulnerable. New cybersecurity architectures, tools, and processes will need to be developed and deployed to protect the convergence of OT/IT infrastructure.  organizations will see the edge as a competitive advantage offering more services to their customers and constituents than previously imagined.
-
-## Web 3.0
-
-All the hype around web 3.0 technologies will begin to be democratized and used in commercial settings. The fusion of AR VR and decentralized distributed applications will continue to evolve and organizations will find ways of using these technologies to improve worker and customer experiences. sharing information securely across multiple organizations will drive the use of distributed secure ledgers and the underlying blockchain technology. The learnings from the crypto meltdown will be leveraged to moderate the technological advances of decentralized smart contracts and currencies.
-
-## Cloud
-
-The major cloud service providers had a rough 2022 as an increase in customers taxed the infrastructure of the cloud service providers with several major outages across multiple regions and clouds. Additionally, many organizations that move to the cloud in 2022 were surprised by the exorbitant cost of using the cloud, especially in egress costs. Cost and reliability drive organizations to the on-prem cloud and regional cloud service providers. This change is driving organizations to adopt a smart cloud approach to leverage multi-hybrid cloud architectures.
-
-## Data Management
-
-With the improvement in edge technology and the proliferation of cloud technology data is being spread all over this heterogenous ecosystem. The maturity of data mesh technology is providing a framework to help organizations manage the proliferation of data everywhere. Key aspects of data need to be considered when deploying global data management strategies: Locality, classification, governance and spoilage. Data spoilage can be measured as the value of data over a period of time.
-
-## Conclusion
-
-With time we will find out what 2023 has in store for the us, for now we can try to plow forward with continuing to drive digital transformation.
-
+Recorded: EDT-121 Deploying Private Clouds
 
 <details>
 <summary> Podcast Transcript </summary>
@@ -63,259 +31,417 @@ With time we will find out what 2023 has in store for the us, for now we can try
 <p>Hello, this is Darren</p>
 <p>Pulsipher, chief solution,architect of public sector at Intel.</p>
 <p>And welcome to Embracing</p>
-<p>Digital Transformation,where we investigate effective change,leveraging people processand technology.</p>
-<p>On today's episode, what's ahead for 2023with special guest me, Darren Pulsipher,your host.</p>
-<p>Hey, on today's episode it's just me againbecause we're going to talk aboutwhat's ahead in 2023,not just for the podcast,but also where we're seeing digitaltransformationtrends moving forward in 2023.</p>
-<p>Most definitely 2023is a year of uncertaintywith a lot of the economic changethat we're seeing,a lot of supply chain shortagesthat we're still dealing with.</p>
-<p>There's a lot of uncertaintyin the markets, but I found six trendsthat I thinkwe're going to see big in 2023and some of hey, some of my fellowtravelers believe the same thing.</p>
-<p>I looked at some of their blogs,some of their reports, too,and they kind of line upwith what I was thinking as well.</p>
-<p>So let's go through them.</p>
-<p>There are six anchors.</p>
-<p>I love the number six for four,these sorts of things.</p>
-<p>The first one and probablythe one we'll see the most of this year,unfortunately, is cybersecurity.</p>
-<p>I think it's going to be big this year.</p>
-<p>I think we're going to havesome major breachesas the war continues to go on in</p>
-<p>Russia and Ukraine.</p>
-<p>I think that's going to spill overinto other countriesas far as cyber warfare goes.</p>
-<p>And so we're going to see a lot in that.</p>
-<p>I'll talk about that edge computing,</p>
-<p>I think will continue to growand we'll see more of that.</p>
-<p>I also think because of the shortage in inin supply ofhuman resources, of of people,we're going to see an uptick in automationthis year, a big uptick.</p>
-<p>I think we're also going to seesome changes in cloud technology,not in the offerings that are given,but we're going to see a risein some of the regional cloudservice providers and we're going to seea big risein the multi hybrid cloud concept.</p>
-<p>And I also think and here are twobig ones, somewhat controversial ones,but I think data management is going to bea forefront this year as ouras our workloads are scatteredall over the placeand our data is scatteredall over, I think we're going to see moreimportance put on data managementand data governance.</p>
-<p>And then last, most controversial will be</p>
-<p>I think we're going to see somethingbig in Web 3.0, which includesa whole bunch of different things,which we'll talk about.</p>
-<p>So, hey, let's dive right into the firstone, which is cybersecurity.</p>
-<p>This was huge last year, but I thinkit's going to be huge again this year.</p>
-<p>And I think the reason why is becausewe're going to see a increasein the number of threats.</p>
-<p>I think the sophistication of the attackshave increased dramaticallyand I think nation statesare going to come as a bigger playerin cybersecurity,both offensive and defensive.</p>
-<p>And I think some of those toolsthat they use are going to get outinto the public more.</p>
-<p>We're going to start seeing scriptkiddies out there causing problems.</p>
-<p>I also think we're goingto see more awareness of ransomwareand more techniques to combat ransomwareand to deal with ransomware effectively.</p>
-<p>And probably one of my biggest concernsthat I have this year,and I voice this a couple of timesto some of my colleaguesas I think critical infrastructureis going to be under attack this year,which is really kind of scary for meas I look at critical infrastructure,as very vulnerablestill as they're still usinga traditional model of isolation,which has worked in the past.</p>
-<p>But with some of the new cybertech techniques they are overcomingisolation,overcoming that traditional Purdue modelthat of professionalsand managers of critical infrastructurehave been leveraging for decades now.</p>
-<p>It's starting to fall apart a little bit,so I'm a little concerned about that.</p>
-<p>We'll have to see how that goes.</p>
-<p>Now, it'snot all doom and gloom on cybersecurity.</p>
-<p>There are some really great new toolsand techniques and technology that havethat are being deployednow as we speak, some new standardsthat are coming out in this area.</p>
-<p>For example, zero trust.</p>
-<p>We're seeing a lot of cybersecurityaround zero trust architecture,they call it.</p>
-<p>A lot of it is more realm philosophy.</p>
-<p>I haven't seen one product yetthat offers end to end zero trustarchitecture from endpoint managementall the way into the data centerand access across multiple cloudsand in data center and edge.</p>
-<p>And no one has something like thatquite yet.</p>
-<p>I see a lot of pieces and partsfitting together for that,but I see most organizationsstarting to really adopt Zero</p>
-<p>Trust philosophy in the waythat they do their cybersecurity.</p>
-<p>And and frankly,a lot of the tools that they havetoday can be used in that same philosophy.</p>
-<p>It requiresprocess change and process improvement,which is the second thing I really seea big improvement in in this year.</p>
-<p>There's a lot of really good cybersecurityhygiene, best practicesthat are out there.</p>
-<p>I am hoping.</p>
-<p>I am really hoping that OT professionalsstart adopting some of these cybersecurity things that we've been doingin the IT space for some time.</p>
-<p>In fact, I'm hoping so much about it.</p>
-<p>I'm actually doing researchfor a PhD dissertation on the subjectand my dissertation goessomething like finding the keycritical factorsthat are impeding OT from adopting i.t.</p>
-<p>Cyber security best practices are some bigtitles like that, but it's importantand we need to find out what thoseimpediments are so we can overcome them.</p>
-<p>I think part of the reason why we seethat is the otprofessionalshave been isolated from cyber attacksbecause of the Purdue modelthat they've been using where they isolatetheir network from the internet,from ot from I.T in their own companies.</p>
-<p>But we're starting to see that break down.</p>
-<p>So there are some thingsthat we got to do around that.</p>
-<p>And last and probably the mostthe most valuable thingmoving forward is hardwareroot of trust and other hardwareenabled security techniqueslike hardware enabled encryption,hardware, secureenclaves and confidential computing.</p>
-<p>These are all built into the hardware,much harder to overcome with cyber attacksthan software that we're doingsome of these things before.</p>
-<p>So I think this is going to bea really good year for cybersecurityas far as new techanalogies, new techniques, new processes,</p>
-<p>But we're going to needsome cultural change to make that happen,especially around critical infrastructure,like I've mentioned,and you're going to hear metalk a lot about itthis year on the podcast because to meit's so important that we educateand that we helpwith cyber hygiene, some basicthings that we can do across the industry.</p>
-<p>Okay, all of thatcybersecurity is really important,but as everyone knows, no one likes to payfor cyber security up front.</p>
-<p>They like to pay for it</p>
-<p>When something's happenedand all your CISOs are out there, you'reyou're like, Yeah, I,</p>
-<p>I hear that all the time, right?</p>
-<p>Believe me, we're going to get some moneyfor cybersecurity this year,but I think we're goingto get even more money in automation,and I think we're going to get more moneyand investment in automationbecause it is still a tight jobmarket out there.</p>
-<p>It is still hardto find people to do things.</p>
-<p>So we're starting to see organizationsspend money on automation toolsto automate some of the workthat was done, some of themore repetitivework that is done by employeesthat they can't hire anymorebecause they can't find them.</p>
-<p>And I think the cost benefit is there now.</p>
-<p>I think automating with eitherno code or low codeor or even sometimes codingautomation,</p>
-<p>I think all three of those are goingto grow more this year and there'ssome great platforms out there.</p>
-<p>AI We're going to we're going to heara lot about these platforms this yearwe have</p>
-<p>I went back and looked at all the podcasts</p>
-<p>I've done, all 119 of themso far, 120 somewhere in that range,and we have quite a few on automation.</p>
-<p>So go back and take a look at embracingdigital dot org.</p>
-<p>You can type in automationand it will tell you all the podcastswe did aboutautomation, both RPA automationand also the beginnings.</p>
-<p>And we're starting to see this of</p>
-<p>A.I., and I think A.I.is going to be a huge thing this year.</p>
-<p>I think the thing it kind of blossomeda little bit last year with Chat. GPT.</p>
-<p>I've been playing around with this.</p>
-<p>Oh my goodness, it is pretty cool.</p>
-<p>I have to admit,and I can see people starting to use it.</p>
-<p>I've even talked to some of my fellowsolution architects.</p>
-<p>They're using chatto help them with some of their solutionarchitect work,which I think is fascinating.</p>
-<p>Like which design pattern is bestused for this situation?</p>
-<p>And they get a list of them where beforethey would have to be hunting and peckingthrough books or through articles.</p>
-<p>So I'm starting to see these, let'scall them assistantsbeing a big tool that we're going to seepeople use more and more of this year.</p>
-<p>And that's all in that air space.</p>
-<p>I also see peoplelooking at process improvementand not just doing evolutionary processimprovement,but complete re architecting processesin their organizationsto start throwing out some of thatbureaucratic steps that were therebecause they've been there for decadesand we've always done it this way.</p>
-<p>We're going to see some re-engineeringof some of those processes in a big waythis next year to simplifyand to automate those processesas much as possible.</p>
-<p>And on top of all this automation,we have already seen a big, huge uptickin a hardware enabled A.I.that's going to make automationmuch easier to handlebecause some of the parts in automationthat are difficult is handlingall the variabilityand handling fuzzy inputs.</p>
-<p>That's a that's a big problem, right?</p>
-<p>I can look for patterns and things likethat that can help in that automation.</p>
-<p>We're seeing a huge opportunityin hardware enabled a</p>
-<p>I in both the cloud service providerswhich are offering itand of course in the chipsthat you can buyof both CPU's cheaperand other acceleratorslike neuromorphic computingand things like that,</p>
-<p>You're going to see more of thatthis year and I think this is goingto be a big year for A.I.to kind of break out a little bit.</p>
-<p>And I think you can look at Openaias one of those organizationsthat are really going to providereally valuable</p>
-<p>AI tools for people to use inhelping them get their jobs donefaster and more effectively.</p>
-<p>And that's part of all that automationaspect of machine.</p>
+<p>Digital Transformation,where we investigate effective change,leveragingpeople process and technology.</p>
+<p>On today's episode,</p>
+<p>Disruptive Private Clouds with Aaron</p>
+<p>Reid from Verge.io.</p>
+<p>Aaron, welcome to the show.</p>
+<p>Darren Thanks for having me.</p>
+<p>Aaronthis is your second time on the show.</p>
+<p>Last time you were on with Chrisand I've also had your CEO on from Verge.</p>
+<p>I'm kind of enamored with you guys.</p>
+<p>I think you already know this.</p>
+<p>I like your approach tovirtualization, to the softwaredefined infrastructure layer.</p>
+<p>And you've got some you've got somereally cool stuff you've been working on.</p>
+<p>But let's firstbefore we dive into the really cool stuff,let's talk a little bitabout the difference between virtualizingjust VMs and virtualizingyour data centers or that concept thatyou guys have that's so different thanwhat we're seeing in the industry today.</p>
+<p>Sure.</p>
+<p>You bet. Thanks.</p>
+<p>So one of the specialties around videothat we do is</p>
+<p>I think you were going to mentionit is our multi tendency and being ableto extract the virtualizationof your resources into tenants.</p>
+<p>And what we do with that basicallyis we start with a tenant in the tenant iswhat a lot of people callnested virtualizationand we put thatin a segregated environmentand that starts with zerotrust architecturewhen it comesto the networking side of it.</p>
+<p>So you create that sub tenant,it has a zero trust architecture.</p>
+<p>People can actually get access to that subtenant until you give them accessthrough the networking ruleswith firewall rules in routing, etc..</p>
+<p>Once that set up, you can do thingswith that sub tenant, like you can dounlimited snapshotsacross the entire sub tenant.</p>
+<p>You can do you can allocate resourceson demand, CPU, memory, ram and storage.</p>
+<p>So for example,if I start with a sub tenantfor one of my end users or a group,say a research group for example,and they say we need 24 coresand 48 gigabytes of memoryand five terabytes of all flashstorage later on down the road.</p>
+<p>As they're going through their testing,they may come back and say,</p>
+<p>Well,now we need ten terabytes of storage.</p>
+<p>I can easily and dynamicallyallocate that storage out to that tenantfor them to use.</p>
+<p>It's all non disruptive.</p>
+<p>It's just a matter of on demand.</p>
+<p>Well, I have the storage in the back end.</p>
+<p>I allocated up to my tenantfrom the back side.</p>
+<p>Do they have access to it now?</p>
+<p>No. Also, you do more than justbecause that sounds like,</p>
+<p>Oh, that's just one VM,but that's not one VM.</p>
+<p>A tenant can have multiple VMs and networkconfigurations, all of that.</p>
+<p>Is that correct?</p>
+<p>Yeah, absolutely.</p>
+<p>It's it's just like a if youyou know, we like to call ita virtual data center, quote unquote.</p>
+<p>But it's the same thing almost asif you were to go to a public cloudand say you wanted tosee a VPC, a virtual private cloud,or you went to a juryand you wanted a security group.</p>
+<p>It's the exact same thing.</p>
+<p>A tenant is a whole infrastructureconstruct where you can go up and spin up</p>
+<p>VMs, you can create networks,and then you can protect it withsnapshots,unlimited snapshots of replication.</p>
+<p>So we can take those tenantsand replicate them to other sites, etc..</p>
+<p>So that means I have portabilityof that tenant,which to me this is actually pretty coolbecause I can createa full blown data centerwith hundreds of a virtual machines,several different networks.</p>
+<p>I can do all that.</p>
+<p>Snapshot it and do D.R.</p>
+<p>Absolutely. Yep.</p>
+<p>Or even even better business continuityas well.</p>
+<p>Right.</p>
+<p>You can do PR, you can dobusiness continuity.</p>
+<p>You can even templated those tenants.</p>
+<p>So, for example,maybe I have a testing environment and</p>
+<p>I want to make a clone of thattesting environment for another group.</p>
+<p>Maybe I'm moving it from Dev to testthe key way.</p>
+<p>I can literally take that tenant.</p>
+<p>It might have an applicationstack of 20 VMs in it.</p>
+<p>I can do a snapshot and clone it offwithin seconds and then providethat as another environmentfor someone else to test on.</p>
+<p>Oh, my brainjust went in crazy directions.</p>
+<p>So which happens a lot.</p>
+<p>People that listen to the showknow this about me already.</p>
+<p>That means I could actually setup a hyper compliant tenantthat has</p>
+<p>VMs that are running, that are doinglogging and all the protections I needed,maybe even have in there, and Identity</p>
+<p>Access Management tool, all that.</p>
+<p>I could have all that in one tenant andthen I can deploy that wherever I want.</p>
+<p>Yes, exactly.</p>
+<p>So from a health careservice provider, for example,one of the big conglomerateslike Sutter Health, whomy friend is a lawyer down there,so I'm going to pick on them a little bit.</p>
+<p>If I have all these small businessesthat I've been acquiring and say,</p>
+<p>Hey, we need to make sure you're HIPAcompliant, boom, doneright, I could drop a tenant on themand they can start addingtheir own VMs to it and and done.</p>
+<p>Yeah, they can build into that tenantwith new greenfield VMsand or if they already have an environmentwith like ayou know, their own infrastructurethat's already built up,they can move their,their VMs into that tenant as well.</p>
+<p>And then like you said, it's already</p>
+<p>HIPA compliant.</p>
+<p>Yeah. So I can say this is cool too.</p>
+<p>I can migrate from other VMs into thisnew environment and now I'm compliant.</p>
+<p>Yeah, absolutely.</p>
+<p>And we can migrate offthe major virtualizationvendors in the market today</p>
+<p>VMware, Hyper-V, IQVIA, you name it,and we can pull themright into our environment.</p>
+<p>This is super, super cool.</p>
+<p>And that's why I'm enamored with you guys,because every time I talk to you,</p>
+<p>I learn something new thatnow I'm thinking of my customers.</p>
+<p>What can I do for them?</p>
+<p>There's lots of really coolthings I can do for them.</p>
+<p>Yeah, we just had an examplethe other day</p>
+<p>I created a videobecause we have a customerthat we're talking to right nowand they're on Hyper-Vin their environmentand they want to be able to migratefrom Hyper-V into view as well.</p>
+<p>What's that process look like?</p>
+<p>So I created a video forum.</p>
+<p>It's not up on our website yet,but I can share it with you guys.</p>
+<p>But literally the video walks throughhow you go inand you look at your Hyper-V VMsbecause Hyper-V is usedin a lot of smaller shopsthat put professional, you know, kind ofsmall to medium sized shopsand buta lot of customers are startingto move off of thatbecause they're not surewhich direction they're going to go.</p>
+<p>And so what we enable them to dois literally take their VMs.</p>
+<p>All you have to do is turn off of the,import it into our environmentand then turn it back onand it's up and running.</p>
+<p>So pretty, pretty straightforward.</p>
+<p>The only time it takes is probablyjust moving it from one environmentto the other, right?</p>
+<p>Moving the the definition can rememberwhat they're called.</p>
+<p>I used to know this.</p>
+<p>Oh no, it's the hyper IBM'sor for any IBM for that matter.</p>
+<p>You're spot on.</p>
+<p>It's just a matter of the timeit takes to take that VM file.</p>
+<p>VMware, they call it a</p>
+<p>Hyper-V, they call it a vehicleand move it across the pipe.</p>
+<p>So the bigger the pipe you have, it'sa one gig, five or ten gig or 25 pipe.</p>
+<p>It moves that much faster.</p>
+<p>Wow. Well, so that that's pretty simple.</p>
+<p>Now, what about moving?</p>
+<p>Because all the cloud service providersare all running virtualization techniques.</p>
+<p>And, you know, obviously, Microsoftis running Hyper-V on their cloud.</p>
+<p>Right.</p>
+<p>And I can't remember NWC.</p>
+<p>I think is running Zen Tanium.</p>
+<p>Q Yeah, yeah, yeah.</p>
+<p>So can I take can I snapshot somethingout of out of the public cloudand pull into a private cloudthis way or not?</p>
+<p>Well, you would have to be able to exportone of your instances,depending if it's software as a service.</p>
+<p>We probably couldn't do that nativelybecause software as a service runsas our own services in our cloud.</p>
+<p>But if it's an instance VM,if you're backing upthat instance, you could back it upand restore it in our environment.</p>
+<p>I don't know though,if you could do just a nativecopy from one cloud to the next.</p>
+<p>Gotcha.</p>
+<p>But there might be a past there that I can</p>
+<p>I can explore to do to repatriate.</p>
+<p>Maybe even some workloads are runningin the in the public cloud.</p>
+<p>Oh, yeah, absolutely.</p>
+<p>We have customers doing that todayand a lot of times they do.</p>
+<p>That isthey don't have to really rebuild so much.</p>
+<p>If it's running on a standard instance,like if it's on the boot to Linux instanceor a Windows instance or a S.O.</p>
+<p>US instance,they can literally just build a VMsin our environmentand move their applications overpretty quick.</p>
+<p>All right.</p>
+<p>Well, so this gives me a migration path.</p>
+<p>Snapshot Capability</p>
+<p>Replication Template.</p>
+<p>It sounds like to methis is what I'm looking for in a softwaredefined infrastructure layer.</p>
+<p>And Iknow we're working with some customerstogether on this stuffand then you pulled out this crazy ideabecause I think you heard metalk about it once and you pulled outand you went and bought two nooks.</p>
+<p>Thank you, by the way, for buying</p>
+<p>Intel Silicon, I have to say, you know,</p>
+<p>But you bought.</p>
+<p>Your own great two there fast.</p>
+<p>Yeah. Yeah.</p>
+<p>Two of our nooks and you.</p>
+<p>And you created a mini cluster.</p>
+<p>So tell me a little bit about the processin doing that.</p>
+<p>Yeah, you bet.</p>
+<p>Can you see the two knocks on the screen?</p>
+<p>Absolutely. Okay, perfect.</p>
+<p>I forget the actual namebrand of the books, but they are</p>
+<p>I believe they're generation 12until looks.</p>
+<p>And basicallywhat I did is for our environment,when we want to cluster,we need a minimum of two nodes.</p>
+<p>So I had to get to Nooks.</p>
+<p>And then if you lookat the back of the bottom picture,where it has the red cablecoming out the back of the two nooks,both of these nooks are dual ported.</p>
+<p>There are 2.5 gigabit network connections.</p>
+<p>That red cablebasically goes from Nook eight and Nook Band that's our core networkfor voice and technology.</p>
+<p>And we replicate all the data across that.</p>
+<p>And what that provides for the enduser is high availability and a very tiny,small footprint.</p>
+<p>So one of those lookscan completely go down.</p>
+<p>Someone could step on it,or maybe you're doing maintenance on itor maybe the power goes out on that noteand the other nook stays up and runningand you have completely spilloverand that other nut.</p>
+<p>In fact,you could if it's aif it's a cold like outage,where they take the nook comes offlineby, you know, getting unpluggedor maybe there's a flood or something,but the other are still uponline and running.</p>
+<p>You can literally just restartyour VMs on the secondary nookand they'll come right up.</p>
+<p>So, yep, and then what that doesis we basically replicate the storagebetween both those nooks.</p>
+<p>The cool story about thisthough, is, is now we can take all the VMsin the infrastructurerunning on those nooks, the networking,the storage, and we can replicate thatto maybe a centralized data centerwhere we have multiplesets of these clustered nooksrunning in different environments,maybe like a point of sale environmentwhere they're all replicatingto a single data center.</p>
+<p>So if I ever need to protect the datathat's on those books,</p>
+<p>I have them protected,and that's all built into our software.</p>
+<p>All right.</p>
+<p>So so this is really interestingbecause what what I just heard,and correct me if I'm wrong, is</p>
+<p>I can build out an environmenton these on these nooks,or I could build it in the data center,and then I can replicateit down to the nooks.</p>
+<p>Yes. Soyou kind of stepped aheadand I was going to get there next.</p>
+<p>But you can do it both directionsbecause we have bi directional replicationand we can replicatethe snapshots of the VMs.</p>
+<p>We can now take those VMsand we can replicate those upto the central data centerand or you could takemaybe you're doing updates on your buildsfor all your remote sitesand you want to push it downto your remote sites.</p>
+<p>You can now do that with replicationwhere you push it downto those remote sitesand you basicallybring those new builds up there.</p>
+<p>But it's not just it's not just the VMs,it's the network configuration access.</p>
+<p>It's everything all in a nice bundle,right?</p>
+<p>Yep, absolutely.</p>
+<p>Including storage. So all that.</p>
+<p>So this is this is pretty cool becausewhat you produce, what I can see is</p>
+<p>I can tie this into my dev ops pipelinewhere I'm building.</p>
+<p>For example,these two nooks can go into a store.</p>
+<p>Right.</p>
+<p>Let's say I have 1500 storesthroughout the nation.</p>
+<p>Right.</p>
+<p>And they need to be runautonomously disconnected at times.</p>
+<p>I could easily,in my DevOps pipeline say, here'sthe new updateto my environment that I needand then push that out across all 1500.</p>
+<p>Yeah, absolutely. Okay.</p>
+<p>That is slickbecause all the network to eventhe networks can all be inside the networkall identical to each other.</p>
+<p>Right.</p>
+<p>Without any, without any problems. Right.</p>
+<p>Absolutely.</p>
+<p>And the other cool thing about ittoo, is now I can take thatthose are replicationis basically it's when optimized.</p>
+<p>And so we have deduplicationbuilt into our replication.</p>
+<p>So whenever we push that data down to thisremote nooks,we're only sending out the, the datathat's duplicated and or changes, right?</p>
+<p>We're not having to send outa whole entire footprint.</p>
+<p>So if I have a VM, multiple</p>
+<p>VMs running in on these two nooks,then I have to update.</p>
+<p>It's not going to have to go throughand rewritethe entire footprint of maybe a terabyteor two terabytes of storage.</p>
+<p>It'll only rewrite the changesand send that down.</p>
+<p>So that that to me is super cool, right?</p>
+<p>I mean, because I may not havegreat connectivity on those remote sites.</p>
+<p>That's right. Exactly.</p>
+<p>That's what I was getting at. Yep.</p>
+<p>That's true.</p>
+<p>All right.</p>
+<p>So the big question I have know, I thinksome of our listeners have as well as.</p>
+<p>All right, these two nooks,how much memory are in these in thesethat you're showing here?</p>
 <p>Yeah.</p>
-<p>Okay.</p>
-<p>Next on the docket, it is edge computing.</p>
-<p>Now, this isthis has been a darling of mine.</p>
-<p>I really love the concept of edgecomputing.</p>
-<p>As CPU's become lower wattageand more capable up the edge of the edgewith all the crazy sensors we have outthere are generatingjust tons of data, right?</p>
-<p>We're talking zettabytes of data. Now,</p>
-<p>I think we're going to see a big changethis yearwhere we can truly manage the edge.</p>
-<p>There's lots of great tools out thereand we can start doing more inferenceat the edge.</p>
-<p>We've got low wattageinference tools like neuromorphicchips out there,even low wattage CPUs out on the edgethat can actually do some work for us,which is really valuable.</p>
-<p>Instead of moving 4Kstreams of data back to data centerto be analyzed for object detection,</p>
-<p>I can now do that right at the edge.</p>
-<p>And instead of sending gigabytesof streaming video data,</p>
-<p>I can send kilobytes of object datathat I found instead.</p>
-<p>Big, huge.</p>
-<p>We're talking several factors,so I can actually manage more edge devicesand get the data offof those devices that I needand do it more effectively.</p>
-<p>And that's not for every case.</p>
-<p>But there's a lot of casesthat I can start looking at that.</p>
-<p>So we're going to see more of thatstarting to come.</p>
-<p>Also additionally,we're seeing a new emphasisin sensors and different kinds of sensors.</p>
-<p>I've talked to a couple companiesand they are going to come on the showthis year that are doing custom sensorsthat do chemicaldetection, virus detection, smellchips, odor detection.</p>
-<p>It's crazy.</p>
-<p>The types of sensors that are coming out,we'll see increased use in light</p>
-<p>AR and video together and meshing,having some sensor fusionto help with that.</p>
-<p>And then I also thinkwe're going to see a rise in 5Gand private 5Gso that organizations can take morea better approachto connecting all these sensorswith a more reliablewhich I think will bea very interesting move forward.</p>
-<p>As we put more devices on the edge,we're going to need security.</p>
-<p>And it goes back to that cybersecurity thing.</p>
-<p>We're going to need trusted Iot devices.</p>
-<p>I know I deployed that device.</p>
-<p>I know that device.</p>
-<p>The data I'm getting fromthat device is trusted.</p>
-<p>I can tell it hasn't been tampered with.</p>
-<p>We're going to see more of thatto prevent spoofing</p>
-<p>Iot devices out there.</p>
-<p>We're going to have to dothese sorts of things to really make Iotand Edge edge computing really valuable.</p>
-<p>We're going to see in thein the key areas, I think edge computing,we're going to see a lot ofa lot of changes this year is criticalinfrastructure managementas we're starting to see more attackson critical infrastructure,cyber attacks, we're going to have to putsmarter devices out on the edgeto do more detection of cyber eventsand more trusted Iot devices out there.</p>
-<p>So I know when I'm updating thatis coming from a trusted devicethat we're going to we're going to see.</p>
-<p>I'm hoping I'm just hoping the beginningsof an overhaulof the way we think about OT and criticalinfrastructure are some other big areas.</p>
-<p>I think we're going to see edge computingmake some progress in is buildingmanufacturing for sure and health care.</p>
-<p>We're already seeing an uptickin health care making are edge devices.</p>
-<p>Unlike hospital beds, morereliable?</p>
-<p>We're going to see them be more autonomouswhere they can move around the hospital,especially enabled by 5G.</p>
-<p>We don't have cables everywhereand a bed can move around with a patientmore reliably and keep vital informationabout that patient in a protected way.</p>
-<p>So I think there's lots of really cooluse cases around edgethat we're going to see blossom this year.</p>
-<p>Okay.</p>
-<p>The most controversial one,</p>
-<p>LGM here right in the middle Web three Oh,now, all right.</p>
-<p>I know you guys are like going Darren,</p>
-<p>Darren is talking crypto again, right?</p>
-<p>He's just trying totalk up his crypto. You know,whatever coin you have out there.</p>
-<p>Well, all right.</p>
-<p>I do have some crypto, I'll admit to it.</p>
-<p>It's in the tank.</p>
-<p>I don't ever seegetting that money back out,but I do see an uptick in the technologiesaround Web three datalike distributed secure ledgers.</p>
-<p>I think as we look at waysthat we can secure our supply chainmore effectively,especially around software bombs,software building materials, we're goingto start looking at distributedsecure ledgers as a to make surethat there aren't changes to software.</p>
-<p>That's where a lot of the attackshave happened recently in the DevOpspipeline, wherewe weren't even keeping a ledger,but people were having access to bombsand changing bombs and adding libraries.</p>
-<p>I think we're going to seea mesh of distributed secure ledgerswith software build systemsto provide a more secure software bomb.</p>
-<p>I also think the metaverseor the metaversekeeps going up and down.</p>
-<p>We may see some uptick in that this year.</p>
-<p>I'm kind of hoping we do because there'sa lot of promise around the conceptof the Metaverseand Air and VR combined together.</p>
-<p>I see something there.</p>
-<p>I also see asthe bankingis happening today, rightwhere we've got central banksthat are trying to control inflationand and pumping up economies.</p>
-<p>I think we're going to see cryptokind of creep back in againas a decentralized alternative.</p>
-<p>But that's just me thinkingand we most definitelyare going to see new useuse models for blockchain.</p>
-<p>Even as much as I've interviewed a companyrecently to have them on the showthat are talking about a reliable storageof critical data in a blockchain,instead of just having normal backups,</p>
-<p>I'm now backing it up into a blockchainwhere it's high.</p>
-<p>I need it's very important I keep thisdata around as highly critical data,so we're going to see some interest dyinguses of Web 3.0 this year.</p>
-<p>I'll keep my pulse on it for youand we'll talk about iton the show for sure.</p>
+<p>So these two nooks,they can support up to 64 gigabytes each.</p>
+<p>They basically use those 244pin DIMMs laptop, DIMMs.</p>
+<p>And right now</p>
+<p>I have 216 gigabit DIMMs in each of them.</p>
+<p>So I have each one of these bookshas 32 gigabytes,but you can get them up to 64 gigabytesbecause it has to dimm slots.</p>
 <p>All right.</p>
-<p>Let's get into things that arethey sound a little mundane.</p>
-<p>We've been talking cloud for years.</p>
-<p>We've talked it cloud for years.</p>
-<p>Last year was a banner yearfor the cloud service providersas their their revenues went up.</p>
-<p>I think it was like 20.8% last year.</p>
-<p>That's huge.</p>
-<p>I thinkwe're going to see some changes this year.</p>
-<p>And I think that's because the big boys,the big cloud serviceproviders had some reliability problemsthis last year.</p>
-<p>Everyone knows about it.</p>
-<p>No one really wants to talk about ittoo much.</p>
-<p>But they had some reliability problemsand a lot of organizationsthat require four ninesor even three nines weren'teven getting nine to nines last year.</p>
-<p>It's pretty patheticunless they had a multicloud or multiregion architecturewhere they really relied onmultiple locations and multiple cloudsto handle their reliability,then they were able to do that.</p>
-<p>So I think those lessons learned,we're going to see more of that Multicloud</p>
-<p>I also think we're going to seesome repatriation of workloadsback into the data centeras the cost of operating data centershas come down a little bitas the capabilities of the CPUhave gone up dramatically,processing per watthas decreaseddramatically in the data center.</p>
-<p>So I think we're going to see somerepatriation this year to control costs.</p>
-<p>I think a lot of the costs in the cloudwere a little out of whack for some peoplebecause they didn't truly understandthe cloud operating model.</p>
-<p>So they're going to start lookingat changing the way theythey do cloud to a cloud,smart way of doing thingswhere my workloads can be more portableacross multiple cloudsand with managingmy data more effectivelybecause the biggest cost surprise,</p>
-<p>I should say the biggest cost surprisethat people are seeing,frankly, is the egress costsof moving your data out of the cloud.</p>
-<p>So we're going to seesome really interesting dataarchitectures come outof thisthat are almost like diode data, diodetype of architectures where I put data in,but it never comes back out.</p>
-<p>And I may have multiple copiesof the same data going out,but that data never comes out.</p>
-<p>Only inference from that data comes out,smaller data sets come out,which I think is going to be true, thatwe may see something like that.</p>
-<p>So I think we're goingto see some shifts in cloud this year.</p>
-<p>The cloud service providers are mostcertainly going to compete on services.</p>
-<p>I think they need to step upto the security problems that we have,which is that shared security,the shared responsibility security model.</p>
-<p>I think they're going to do more educationfor their customerson how to do that effectively,because it's a very difficult thing to doif you're not used to it.</p>
-<p>And I think a lot of cloud serviceprovidersknow that's a problembecause their customers maybe say, well,</p>
-<p>I don't even need a security team becausethe cloud is handling security for me.</p>
-<p>And they're shouting,</p>
-<p>No, no, you still need to manage your it'sstill your staff.</p>
-<p>We don't manage all of your securitybecause there are things that you can doto actuallythwart the security measures thatthe cloud service providers have put in.</p>
-<p>So we're goingto see more education in that space.</p>
-<p>I think the cloud service providersknow thatand they want to do the bestfor their customers in this case.</p>
-<p>So there you go.</p>
-<p>All right.</p>
-<p>The last but not least,and this is a big one for me, I love whatwe're seeing in data managementand we're seeing most of it comingbecause of low quality of data.</p>
-<p>I've got data spread all over the place,especially when I startlooking at the edge.</p>
-<p>As the edge has become more capable,</p>
-<p>I'm collecting more data at the edge.</p>
-<p>What do I do with that data?</p>
-<p>How long do I keep it?</p>
-<p>Who has access to it?</p>
-<p>If I'm doing inference at the edge, wheredoes that data, the inferred data go?</p>
-<p>We also see somethingvery fascinating with COVID, and we have</p>
-<p>I haven't seen anyone really come upwith a good solution to this yet.</p>
-<p>It is my laptop,</p>
-<p>It is an edge device.</p>
-<p>Now I've got critical informationon that edgeand you're thinking,</p>
-<p>Damn, we've done that.</p>
-<p>We know how to do that, right?</p>
-<p>We just sinking into the cloudand it's managed in ourin a cloud security model that we have.</p>
-<p>But my question to a lot of youis video conferencing.</p>
-<p>Where are those videos landing?</p>
-<p>Are they secure?</p>
-<p>What's the governance model around that?</p>
-<p>These are a lot of questionspeople aren't really think about or I'mstarting to see the rise of</p>
-<p>AI where there's an A.I.guest on my on my web conference,and it is transcribing everythingthat's said.</p>
-<p>Who's doing that transcription?</p>
-<p>Which SAS model my using?</p>
-<p>Is that data protected?</p>
-<p>Who's doingthe security audits on all that?</p>
-<p>There's a lot where is that data reside?</p>
-<p>Is it there temporarilyor do they keep copies?</p>
-<p>This all fits into this data management,which includesfour key areas that</p>
-<p>I like to call locality classificationgovernance of the data, and a new termthat was taught to meby my Macromedia, which you're goingto see a podcast by Macromediathis this year on data spoilage.</p>
-<p>What Darren youwhat are you talking about data spoilagedata hasdifferent value based off ofhow old it is.</p>
-<p>Instant real timedata could be very valuable,especially in critical infrastructure,right?</p>
-<p>Or it could be very valuable later on once</p>
-<p>I've collected itand I'm doing training,but it might spoil over time.</p>
-<p>It depends on the data.</p>
-<p>Not all data is created equal.</p>
-<p>Okay, We're starting to seesome really big new dataarchitectures that are out there,including the maturity of datamesh architectures,which I think are going to be greatas we start looking at datadifferently, as instead of</p>
-<p>I need to bring all my data to one placeto do analytics, I now need to takethe analytics to where the data is.</p>
-<p>I need to look at dataas a commodity that I can use.</p>
-<p>I can monetize where it's at,</p>
-<p>I can monetize it together.</p>
-<p>So we're going to start seeinga lot more intelligent data movementacross this vast ecosystemin the data center, in the cloud,on the edge, And we're going to startseeing the emergence of data brokerages,global data networks that are sharedin coopetition type scenarios.</p>
-<p>We're going to startseeing more of that stuff,and we're going to need a ways of doingthese types of analytics on shared datain a confidential way.</p>
-<p>So I'm going to see confidential computingis going to be big this year,especially around data managementand new data business modelsthat we're going to see wherepeople are not sharing the data,but they're sharing analyticsfrom the data togetherand they're they're joining analyticsfrom their own private data sets togetherto improve the industryor the community as a whole.</p>
-<p>So there's a lot of really cool thingsaround data managementthat I truly believe we'll see this year.</p>
-<p>So I'm really interested in your feedbackon this.</p>
-<p>Please put comments on the blogor on the podcast postor on the YouTube channel.</p>
-<p>I check all of themand give me some of your ideas or go aheadand send me an email at Darren Dot Wdot Pulsifer at Intel AECOM.</p>
-<p>I read the emails.</p>
-<p>I enjoy feedback from you guys.</p>
-<p>Tell me maybe what did I miss thatmaybe I missed something or somethingyou want to hear on the podcast this year?</p>
-<p>I'm all ears.</p>
-<p>I want to hear your feedback.</p>
+<p>So there's a total a 64gig is what you have on there.</p>
+<p>And storagein storage right now,</p>
+<p>I have two terabytes of a set of flashthat's basically two twoterabyte SSDs that are drives.</p>
+<p>And then I have one terabyte in the flash.</p>
+<p>So if I need anything that's real highperformance and I can fit it in there.</p>
+<p>Yeah, it has the two drives,there's one terabyte in each system.</p>
+<p>Oh wow. All right.</p>
+<p>So have you, have you, have youdone some performance testing on this?</p>
+<p>Have you like run it through its courses.</p>
+<p>Can you make it typically. Oh yeah.</p>
+<p>The performance is actually prettyunbelievable on these nooksit comes close to in thismight not to try to downsize it at allbut it comes close to running performancetests like on a local map.</p>
+<p>And what I mean bythat is the performance is lights outwhen I do things like performancetesting to see my IOPS going in and outand my throughput going in and out,</p>
+<p>It's super fastconsidering it'sjust running on two small looks.</p>
+<p>That's incredible.</p>
+<p>How many VMs are you able toand what size VMs doyou think you can run on this thingwithout it falling over?</p>
+<p>I mean, what could I use this for?</p>
+<p>I can think of a lot of crazy things</p>
+<p>I could use this for, right?</p>
+<p>But you can easily use it for databases.</p>
+<p>You could use it for remote desktopwork workloads,editing, workstation type stuff.</p>
+<p>It could definitely support that withthe performance that's on these systems.</p>
+<p>Right.</p>
+<p>And you're running Ubuntu on them or well,you're running your own OS on them.</p>
+<p>So you can have as many VMs on thereas you want, right?</p>
+<p>Yeah.</p>
+<p>As long as the memoryand the CPU cores can support itwith your guys's cpu's, it's wicked fastso you can oversubscribed those.</p>
+<p>Not that you need to,but then with the RAM, it'sliterally just,you know,how do I have enough ram in there to beable to support the workloads that I need?</p>
+<p>And of course, if you needed more RAMand it's a small environmentwith these guys, you can scale these out.</p>
+<p>We only see two here on the screen,but I can easily add threeor four of them in there.</p>
+<p>Yeah, exactly.</p>
+<p>Yeah. Yeah.</p>
+<p>This is pretty cool.</p>
+<p>I may have to replace my file server</p>
+<p>I have at home with this, so.</p>
+<p>All right, cool.</p>
+<p>Can you show us a little bit.</p>
+<p>About the size of it?</p>
+<p>Depending on the size of your file server,</p>
+<p>I mean, I could realistically getall flash just between these two nuts.</p>
+<p>If I stood if I installed an eightterabyte</p>
+<p>SSD on each oneand we mirror the data for protection.</p>
+<p>Right. So that would give you eightterabytes usable.</p>
+<p>And I installed another eight terabyteto drive on each one.</p>
+<p>Now I'm up to 16 terabytesall across these two little mix.</p>
+<p>And it would be screaming fast too.</p>
+<p>And it's probably not a lot of heat,probably not a lot of heat comingoff of them either.</p>
+<p>No, I'm sitting right next to itright now.</p>
+<p>No, that's that's pretty cool.</p>
+<p>So the two nicks that I haveon the screen there,this is basically the interfacefor those two looks.</p>
+<p>And this is our primary dashboard.</p>
+<p>And here you can see convergencesmerge here.</p>
+<p>And I use these two looksfor doing my VR replication and testingand just running workloads on in general,sometimes for demo purposes.</p>
+<p>If I want to see the nodes on thiscluster, I basically come over here.</p>
+<p>Here you can see Node one in No.</p>
+<p>Two here you can see keep me honest,there are 31 gigabyteson each one of those 32 physically,but we're using some of that off the top.</p>
+<p>Now, I want to double clickinto one of those guys here.</p>
+<p>And there you go again.</p>
+<p>It's 12th Gen Intel core i5 1240, soit's one of the latest and greatest looks.</p>
+<p>And then I come downhere, I can see my drive's on my nook,</p>
+<p>I can see my nicks, just likewe saw the two nicks on the back of it,the one red cable and the one gray cable.</p>
+<p>So I want to double click on that guyhere.</p>
+<p>You can see ones running at one gigabitor a thousand megabitsper second, and then once 2.5,that's that red cable.</p>
+<p>That's doing the crossoverbetween the two nuggets.</p>
+<p>It's getting the native 2.5 gigahertz,which is really nice, and that basicallysupports my core networkfor my voice and replication acrossboth nodes.</p>
+<p>So that's one note.</p>
+<p>By go back into that node,</p>
+<p>I can now see the drives.</p>
+<p>So if I want to click on that drivethere, here you can seeone of my drives is about to drive.</p>
+<p>That's my amp drive one terabyteand the other drivers that to driveand that's a two terabyte drive.</p>
+<p>So each NIC has this configurationidentical configuration.</p>
+<p>So that way when we set up our reviewcenters, we replicate across these.</p>
+<p>So then I end up getting one terabyteor 92 gigabytes of usablenvme flash and then I get two terabytesof usable SSD.</p>
+<p>Very nice.</p>
+<p>And I canconfirm that because if I goback into my cluster environmentand I go into my beacon tiers,</p>
+<p>I'll show you those two tiersthat are based on those drives.</p>
+<p>Here's my tier one.</p>
+<p>You can see the tier up here,and that tier isbased on those mini drives and you can seethe capacity is 130 gigabytes.</p>
+<p>I'm only using a few gigabytes on itright now.</p>
+<p>And here's my tier three.</p>
+<p>That's the cities.</p>
+<p>My capacity is 1.86 terabytes,and I'm using about 314 gigabytes on that.</p>
+<p>And if I want to double clickon that to validate that, I can come here,</p>
+<p>I can see it's two drives, onedrive on node, one, one drive on Node two.</p>
+<p>They're both two terabytes each.</p>
+<p>So we basically mirroracross our environment.</p>
+<p>And the way our vCenter works isthe file system worksis it's a distributed mirror.</p>
+<p>So as we scale up or scale out,depending on if your servers or your oryour systems can support additional drivesinternally or if you want to scale out.</p>
+<p>So if I wanted to add another node,</p>
+<p>I could potentially out of Nodethree here with the same configurationand that would just take thatmirrored up across those nice.</p>
+<p>So this gives me the visibilitythat I need across nodes.</p>
+<p>As I add nodes to this,it will see those nodes as well.</p>
+<p>So that's my physical layer.</p>
+<p>What about my virtual layer?</p>
+<p>Yeah.</p>
+<p>So if we go into the virtual layer,</p>
+<p>I can come in here to my virtual machines.</p>
+<p>Here is my virtual machinesdefault dashboard on the left hand menubar here I have a bunch of configurationbasically changes that I can door settings like I can do, like newthe new drive, new NIC.</p>
+<p>And then in here I have a list of IBM's.</p>
+<p>You can see I have some VMs running here.</p>
+<p>I have my top drive rates, my topdrive storage usage, my top Nic Riggs</p>
+<p>But usually where we spendmost of our time in this environmentis I go into my virtual machinesand this is where I can see a listof my different virtual machinesin my environment.</p>
+<p>If I want tolook at the console of one of these VMsand you can see here I have fourrunning on the two looks right now.</p>
+<p>So these four are running,but I double click on this Windows VM.</p>
+<p>Here we have a guestgive you a queue immune agent.</p>
+<p>So this gives us valuableguest information that we want to collect.</p>
+<p>Like whatmy C drives using what my g-drive is usingwhat my hostname on my vn might be.</p>
+<p>So all the things that you would expectof a matureinfrastructure virtualized product, right.</p>
+<p>For your on on prem cloud.</p>
+<p>And if I want to go into my consolehere, click on this guy.</p>
+<p>This willgive me console.log since nine in that VMand this is one of the performance tests</p>
+<p>I love to run to show peopleis this Blackmagic diskspeed test utility.</p>
+<p>This was actually referred to meby a customerbecause they wanted meto do some testing for them.</p>
+<p>But basically if I double click onthis guy and I start my speed test here,</p>
+<p>I can come in here,</p>
+<p>I can select which target drive.</p>
+<p>I want it to run on.</p>
+<p>I take my my data g-driveand I go ahead and click start.</p>
+<p>This guy takes offand you can see automatically it'salready pushing the limitsof the performance I can get fromjust replicatingthe data across network on my right.</p>
+<p>So I am limited because I have a 2.5gigabit connection on the back end.</p>
+<p>Typically in a production barfor customers.</p>
+<p>We'll ask that, you know,you have a ten gig or bigger for the VPN,but still this is pretty good speed forjust going across those two notes, right?</p>
+<p>You're not you know, we can pretty muchsupport any application with this.</p>
+<p>And then as this guy finishes,you'll see it'll flip over to the reads.</p>
+<p>Here's the other thingtoo, is we just went from 180 megabytesper second to 3000 megabytesor three gigabytes per second.</p>
+<p>And that's because what we dois whenever we're doing reads,we read locally within the local storage.</p>
+<p>Yeah.</p>
+<p>Versus with the rights we're writing,we're always writing acrossto two different environmentsbecause we want to make surethat right data is protected, right?</p>
+<p>Of course, of course.</p>
+<p>So with a faster network,because you basicallyper second,you've saturated a 2.5 gigabit gigabitconnection.</p>
+<p>Yeah, almost almost saturated.</p>
+<p>It's pretty close, right?</p>
+<p>It's pretty close, yeah.</p>
+<p>Because this could bemaybe a little bit over 200 or 240.</p>
+<p>There's probablya little overhead in there for something.</p>
+<p>But for the most partit's it's pretty secure.</p>
+<p>Yeah, that, that is, that is pretty cool.</p>
+<p>What about net network because I you know</p>
+<p>Darren touted hey I set up my whole datacenter inside this thing</p>
+<p>I can create multiple networks hereand put different machineson different networks.</p>
+<p>All that is all built in here as well,right?</p>
+<p>Yep, absolutely.</p>
+<p>So here I go to my network.</p>
+<p>So what I did is I jumped back into mymy primary dashboardand I could do thatvery quickly on this header up here.</p>
+<p>And basically I click into my networksand we what we do iswe have these tiles where you can jumpinto the different environments.</p>
+<p>But here you can see</p>
+<p>I have tenant networks, so,so tenants that I have running in here,</p>
+<p>I have internal networksthat would be for my core and my DMZ.</p>
+<p>That's where all our services runacross our BSS and storageand any other services that we providethat.</p>
+<p>Your internal that's your internal stuff.</p>
+<p>Got it. Yeah.</p>
+<p>And then I have my externaland that would be my connectionto my UI, right?</p>
+<p>Or my connectionto my, my northbound southboundnetworking, basically my external network.</p>
+<p>And so I click on all networks,it lists all of those together.</p>
+<p>Here you can see in my corein DMZ, here's my core DMZ switch.</p>
+<p>That's that one cross connectsthat red cable that goesacross those 2.5 gigabyte connections.</p>
+<p>And then my external networkis that one gigabit.</p>
+<p>If I double click on that, go here,you can see my IP addresses.</p>
+<p>These are for my subtenants that I have set up.</p>
+<p>So virtual IP addresses, they go back intomy external, here's my firewall rules.</p>
+<p>So we have a firewall rule controlwhere you can come in hereand you can do things like here</p>
+<p>I have a door synchronization ruleso that I can synchronizefrom my productionenvironment down to this environment,and that's basically how I can push</p>
+<p>VMs down to itand then import them in and run them fromdemand.</p>
+<p>Let's say I'm I'm the sysadmin, rightat some retail store.</p>
+<p>I've got 1500 stores nationwideand I need to manage these things remotebecause I don't want to hire a sysadminfor every single small store I have.</p>
+<p>Is there away that I can manageall this from one consolewhere I can today?</p>
+<p>What's going on?</p>
+<p>Yeah.</p>
+<p>So today we basically do it side by side.</p>
+<p>So it's a single console per site,but with our next release support 11and right now we're 4.10 three, but 4.11comes out in a couple of weekswith built in geographic site management.</p>
+<p>So that means literallywhen you go to the primary dashboardinstead ofjust seeing your clusters and your nodes,there's another pane in herethat shows you a geographical mapwhere you can click into remote sitesfrom that geographical map.</p>
+<p>And there's a list as well, too, whereif you already know the listeninglike know Philadelphia versus Seattleversus.</p>
+<p>Boy, I can I can.</p>
+<p>Still on those list namesand go right to it Exactly.</p>
+<p>Oh that's super cool.</p>
+<p>So I should be able on that map to seestatus of everything running as well.</p>
+<p>So any red things come up I'mgoing to knowalerts, all that stuff is built into that.</p>
+<p>That's super slick.</p>
+<p>That is that is super slick.</p>
+<p>So, Aaron.</p>
+<p>We just have our sitesand we have our clusters,but that is coming in our next release,which issupposed to be out in a couple of weeks.</p>
+<p>Oh, that that is that is really cool.</p>
+<p>I can't wait to get my hands on that.</p>
+<p>Aaron,</p>
+<p>Any last words for our audience out therelistening today?</p>
+<p>I would just say, you know,if you're looking for some type of edgerobotic,remote virtualization infrastructureor you're looking for somethingfor your primary on premdata centers, definitely check out</p>
+<p>VeWe have a great product.</p>
+<p>It's mature, it's easy to use,and we get great responsesfrom our customers.</p>
+<p>We get a lot of repeat businessfrom our customersjust because it's so easy to useand it's durable.</p>
+<p>So now is there a try?</p>
+<p>Is there a try option here?</p>
+<p>I heard there might be a try optionwhere I can go and maybe downloadthe software, install it,try it out myself for a period of time.</p>
+<p>Is there an option?</p>
+<p>Yeah, Ibelieve if you go to our web site and</p>
+<p>I'll probably mess it up, butif you go in here, there should be a way.</p>
+<p>If you go to videos or blogor about Birdseye, there's multiple linkswhere you can come in and let'sclick on videos for a second real quick.</p>
+<p>And if you watch a video,we might have even a tryand body type thingnot to try to buy it, butit's a stress. Test drive.</p>
+<p>Test, right right there. Yeah.</p>
+<p>And so basicallyyou just fill out a simple formfirst name, last name, company,name your business email.</p>
+<p>We trust the test drive, and then one ofour guys will reach out to you.</p>
+<p>We have a couple of different waysyou can try it out.</p>
+<p>You can either download our ISOand install it on your own.</p>
+<p>Hardware will run on any hardwarein your environment, x86 based hardwareand or we have an online demo labthat we can set up for customers toif they don't have any hardware,but they want to get to knowhow the software works.</p>
+<p>Very cool, Aaron, thanks for coming onthe show again, that's very Verge.iol.</p>
+<p>I normally don't like to just come outand talk about products,but you guys have done such a killer job,especially of running on the nooks.</p>
+<p>I just had to have you. Come on.</p>
+<p>No, absolutely.</p>
+<p>Thanks for having me.</p>
+<p>So it's great.</p>
 <p>Thank you for listeningto Embracing Digital Transformation today.</p>
-<p>If you enjoyed our podcast, give itfive stars on your favorite podcast siteor YouTube channel,you can find out more informationabout embracing digital transformationand embracingdigital.org.</p>
-<p>Until nexttime, go out and do something wonderful.</p>
+<p>If you enjoyed our podcast,give it five stars on your favoritepodcasts Insider YouTube channel,you can find out more informationabout embracing digital transformationand embracingdigital.org Until nexttime, go out and do something wonderful.</p>
 
 </details>
